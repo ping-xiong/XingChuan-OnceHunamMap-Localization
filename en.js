@@ -730,7 +730,7 @@ export default {
         "检测点24": "Inspection Point 24",
         "翻车鱼岛旅客中心": "Mola Island Visitor Center",
         "治炼厂污染点": "Refinery Pollution Plan",
-        "检测点3711": "Inspection Point 3711",
+        "检测点3711": "Inspection Point 3711"
         // 下面是添加新的翻译
         // 每行格式都一样，左边双引号是原文，中间是英文冒号，右边是翻译，结尾是因为逗号，不能使用中文冒号和中文的逗号
         // ,是英文逗号, :英文冒号
