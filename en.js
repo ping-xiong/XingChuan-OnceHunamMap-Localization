@@ -15,6 +15,7 @@ export default {
         "setting": "Settings",
         "user_data": "User Data",
         "quick_setting": "Quick Settings",
+        "quick_setting_fuel_loot": "Fuel Loot",
         "quick_setting_resource": "Resource",
         "quick_setting_bus_route": "Monster Bus",
         "area": "Areas",
@@ -111,6 +112,9 @@ export default {
         "update": "Updated",
         "guide": "Guide",
         "donate": "Donate",
+        "auto_reset_help_title": "Help",
+        "auto_reset_help_text": "The fixed refresh time for weapon crates and gear crates starts at 00:00:00 and refreshes every 4 hours on the hour. If you still can't open the crates when you reach the refresh time, just log in again.",
+        "auto_reset_help_ok": "OK"
     },
     "donate": {
         "payment": "Please scan the QR code using WeChat",
@@ -162,10 +166,9 @@ export default {
         "孤狼荒原": "Red Sands",
         "黑心地带": "Blackheart",
         // Routes
+        // No need to translate the fuel count number.
         "怪物巴士路线": "Monster Bus",
-        "便携混合燃油(30+)": "Portable Mixed Fuel (30+)",
-        "便携混合燃油(50+)": "Portable Mixed Fuel (50+)",
-        "便携混合燃油(150+)": "Portable Mixed Fuel (150+)",
+        "便携混合燃油": "Portable Mixed Fuel",
         // Areas
         "污染区": "Contaminated Area",
         // Teleporters - 传送塔
@@ -385,6 +388,7 @@ export default {
         "挖通地狱": "Dig to Hell",
         "腐乐园": "Paradise Lost",
         "喀戎行动": "Operation Chiron",
+        // Accessories - 武器配件
         // Weapon Attachments - 武器配件
         // Optics - 瞄具配件
         "轻量化红点瞄具": "Light Reflex Sight",
@@ -464,11 +468,11 @@ export default {
         // Puzzle Types
         "异常门扉": "Door Puzzle",
         "异常路牌": "Broken Billboard",
-        "破碎山石异常": "Explosion Barrier",
+        "广告牌异常": "Broken Billboard",
+        "破碎山石异常": "Breakable Rock",
         "异常电话亭": "Phone Booth",
         "异常雕像": "Statue Puzzle",
-        "广告牌异常": "Broken Billboard",
-        "黑水相机": "Camera Pose Puzzle",
+        "黑水相机": "Camera Emote",
         //"": "Compact Brake (needs Mysterious Painting)",
         "诡谲画作: 小型制退器": "Small Muzzle Brake (needs Mysterious Painting)",
         "诡谲画作: 轻型光学瞄具": "Light Optic (needs Mysterious Painting)",
@@ -482,9 +486,9 @@ export default {
         "角形握把": "Triangle Grip",
         "霰弹枪式制动器": "Shotgun Brake",
         "密封型反射瞄具": "Sealed Reflex Sight",
-        "多用途霰弹枪抑制器(6226,-588)": "Multi-Use Shotgun Suppressor",
-        "大型光学瞄具,黑心地带(3039,990)": "Large Optic Sight",
-        "大型光学瞄具,黑心地带(3037,-979)": "Large Optic Sight",
+        "多用途霰弹枪抑制器(6226,-588)": "Multi-Use Shotgun Suppressor (6226,-588)", // Keep coordinates when available
+        "大型光学瞄具,黑心地带(3039,990)": "Large Optic Sight (3039,990)",
+        "大型光学瞄具,黑心地带(3037,-979)": "Large Optic Sight (3037,-979)",
         "手枪加强型弹匣": "Extended Pistol Mag",
         "诡谲画作：小型制退器": "Small Muzzle Brake (needs Mysterious Painting)",
         "诡谲画作：轻型光学瞄具": "Light Optic (needs Mysterious Painting)",
@@ -773,6 +777,7 @@ export default {
         "鱼饵商人": "Margerie (Fish Merchant)",
         "鱼饵商人【霜之白班钩鱼蓝图兑换处】": "Margerie【Fish Blueprints】",
         // Livable Location - 宜居地点
+        // Livable Location are the recommended places to live with subjective opinions, These are usually large flat areas with rich resources and close to water sources.
             // has no individual names
         // Not sure where/if the following are used.
         "异常点": "Abnormal Object",
@@ -785,11 +790,5 @@ export default {
         "翻车鱼岛旅客中心": "Mola Island Visitor Center",
         "治炼厂污染点": "Refinery Pollution Plan",
         "检测点3711": "Inspection Point 3711"
-        // 下面是添加新的翻译
-        // 每行格式都一样，左边双引号是原文，中间是英文冒号，右边是翻译，结尾是因为逗号，不能使用中文冒号和中文的逗号
-        // ,是英文逗号, :英文冒号
-        // ，是中文逗号，：中文冒号，不能混用
-        // 添加一条翻译
-        // 首字母大写
     }
 }
