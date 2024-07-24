@@ -169,8 +169,6 @@ export default {
         // No need to translate the fuel count number.
         "怪物巴士路线": "Monster Bus",
         "便携混合燃油": "Portable Mixed Fuel",
-        "便携混合燃油": "Portable Mixed Fuel",
-        "便携混合燃油": "Portable Mixed Fuel",
         // Areas
         "污染区": "Contaminated Area",
         // Teleporters - 传送塔
