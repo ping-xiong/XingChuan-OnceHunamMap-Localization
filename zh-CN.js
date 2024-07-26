@@ -42,7 +42,12 @@ export default {
         "login_btn_hint": "云端同步",
         "back_to_categories": "返回分类筛选",
         "display_area": "显示区域 (点击名字隐藏，点击图标定位)",
-
+        "select_item_category": "选择物品分类",
+        "related_items": "相关物品列表",
+        "locate_item": "点击物品定位地图",
+        "search_resources": "筛选资源列表",
+        "input_resource_name": "请输入资源名称",
+        "locate": "定位地图"
     },
     "floor_text": {
         "roof": "( 在楼顶 )",
@@ -95,7 +100,7 @@ export default {
         "rewards": "战利品",
         "close": "关闭",
         "detail": "详情",
-        "operation": "标记操作 ( 定时功能已适配固定刷新时间 )",
+        "operation": "标记操作",
         "timer_title": "武器箱&装备箱定时恢复",
         "timer_title_not_login": "(需登录) 武器箱&装备箱定时恢复",
         "to_login": "前往登录以使用定时功能",
