@@ -149,11 +149,11 @@ export default {
         "迷雾区域": "Fog Event",
         "防守工坊": "Workshop",
         "移动房屋": "Moving House",
-        "限时事件": "Red Events",
+        "限时事件": "Red Event",
         // Collection
-        "武器配件": "Weapon Attachments",
+        "武器配件": "Attachment", // "Weapon Attachments" is too long and breaks the UI
         "食谱": "Recipe",
-        "收容物": "Deviants",
+        "收容物": "Deviant",
         "诡谲画作": "Mysterious Painting",
         "矿物点": "Mineral",
         "采集点": "Plant",
@@ -161,7 +161,7 @@ export default {
         "回响石": "Echo Stone",
         // Hint
         "留言": "Hint",
-        "隐藏任务": "Side Quests",
+        "隐藏任务": "Side Quest",
         "商人": "Merchant",
         "宜居地点": "Livable Location",
         // Regions
@@ -415,7 +415,7 @@ export default {
         "微型红点瞄具": "Mini Reflex Sight",
         "先进战斗光学瞄具": "Advanced Combat Optic",
         "全像瞄准镜": "Holographic Sight",
-        // Muzzle Attachments - 
+        // Muzzle Attachments - 枪口配件
         "鱼鹰抑制器": "Osprey Suppressor",
         "集成型补偿器": "Integrated Compensator",
         "多用途霰弹枪抑制器": "Multi-Use Shotgun Suppressor",
@@ -430,14 +430,14 @@ export default {
         //"多孔式消焰器": "", // Multi-Hole Flash Hider
         "伪装用抑制器": "Camouflage Suppressor",
         "大型抑制器": "Large Suppressor",
-        "大型枪口制退器 ": "Large Brake",
+        "大型枪口制退器": "Large Brake",
         "前向消焰器": "Forward Flash Hider",
         "消焰器": "Flash Hider",
         "轻量化制退器": "Light Brake",
         "基础抑制器": "Basic Suppressor",
         "紧凑型制退器": "Compact Brake",
         "霰弹枪制退器": "Shotgun Brake",
-        // Tactial Attachments - 
+        // Tactial Attachments - 战术配件
         "小型红外指示器": "Mini Reflex Sight, Small Infrared",
         "前护手握把": "Front Guard Grip",
         "后护手握把": "Back Guard Grip",
@@ -457,7 +457,7 @@ export default {
         "紧凑型手电筒": "Compact Flashlight",
         "激光指示器": "Laser Sight",
         "折叠脚架": "Folding Bipod",
-        // Magazines - 
+        // Magazines - 弹匣配件
         "狙击枪战术弹匣": "Tactical SR Mag",
         "轻机枪校准弹鼓": "Calibrated LMG Drum Mag",
         "狙击枪改良弹匣": "Amended SR Mag",
@@ -502,6 +502,62 @@ export default {
         "诡谲画作：战术步枪瞄具": "Tacticle Rifle Scope (needs Mysterious Painting)",
         "诡谲画作：前向消焰器": "Forward Flash Hider (needs Mysterious Painting)",
         "诡谲画作:战术步枪瞄具": "Tacticle Rifle Scope (needs Mysterious Painting)",
+        // Item Categories - 手枪
+        "手枪": "Pistols",
+        "霰弹枪": "Shotguns",
+        "冲锋枪": "SMGs", // Submachine Guns
+        "步枪": "Rifles",
+        "狙击枪": "Sniper Rifles",
+        "轻机枪": "LMGs", // Light Machine Guns
+        "弓弩": "Crossbows",
+        "重型火器": "Heavy Weapons",
+        "刀剑": "Melee Weapons",
+        "头盔": "Helmets",
+        "面部": "Masks", // Face
+        "上身": "Vests", // Top
+        "下身": "Pants", // Bottom
+        "手套": "Gloves",
+        "鞋子": "Shoes",
+        "瞄具配件": "Optics",
+        "枪口配件": "Muzzle Attachments",
+        "战术配件": "Tactial Attachments",
+        "弹匣配件": "Magazines",
+        "碎弹模组": "Shrapnel Mods",
+        "霜寒模组": "Frost Vortex Mods",
+        "爆弹模组": "Unstable Bomber Mods",
+        "电涌模组": "Power Surge Mods",
+        "标记模组": "The Bull's Eye Mods",
+        "弹射模组": "Bounce Mods",
+        "快枪手模组": "Fast Gunner Mods",
+        "灼烧模组": "Burn Mods",
+        "阵地模组": "Fortress Warfare Mods",
+        "武器通用": "Weapon Compatible", // ?
+        "头盔模组": "Helmet Mods",
+        "面部模组": "Mask Mods", // Face mods
+        "上身模组": "Vest Mods", // Top mods
+        "下身模组": "Pants Mods", // Bottom Mods
+        "手套模组": "Glove Mods",
+        "鞋子模组": "Shoe Mods",
+        "防具通用": "Armor Compatible", // ?
+        "近战通用": "Melee General", // ?
+        "流派效果": "Genre Effect", // ?
+        "模组后缀": "Module Suffixes", // ?
+        "元素伤害": "Elemental Damage", // ?
+        "特殊子弹": "Special Bullets", // ?
+        "套装碎片": "Set Fragments",
+        "素材": "Materials",
+        "近战蓝图": "Melee Weapon Blueprints",
+        "手枪蓝图": "Pistol Blueprints",
+        "霰弹枪蓝图": "Shotgun Blueprints",
+        "冲锋枪蓝图": "SMG Blueprints", // Submachine Gun Blueprints
+        "步枪蓝图": "Rifle Blueprints",
+        "狙击枪蓝图": "Sniper Rifle Blueprints",
+        "轻机枪蓝图": "LMG Blueprints", // Light Machine Gun Blueprints
+        "弓弩蓝图": "Crossbow Blueprints",
+        "家具配方": "Furniture Blueprints",
+        "肉类": "Meat",
+        "鱼类": "Fish",
+        "药草": "Herbs",
         // Recipes - 食谱
         "食谱：熏肉罗宋汤": "Recipe: Borscht Deluxe",
         "食谱：畸变塔可卷": "Recipe: Taco", // In World item says Herbal Tea
@@ -795,6 +851,22 @@ export default {
         "检测点24": "Inspection Point 24",
         "翻车鱼岛旅客中心": "Mola Island Visitor Center",
         "治炼厂污染点": "Refinery Pollution Plan",
-        "检测点3711": "Inspection Point 3711"
+        "检测点3711": "Inspection Point 3711",
+        // Miscellaneous UI strings
+        "任意名称": "Any Name",
+        "搜索": "Search",
+        "相关地点列表": "Locations",
+        "点击地点定位地图": "Click to center the Location",
+        "请输入物品名称进行搜索": "Please enter a Location Name",
+        "相关标记列表": "Markers",
+        "点击标记定位地图": "Click to center the Marker",
+        "请输入标记名称进行搜索": "Please enter a Marker Name",
+        "相关资源列表": "Resources",
+        "点击标记定位地图": "Click to center the Resource",
+        "请输入资源名称进行搜索": "Please enter a Resource Name",
+        "关注星川": "Follow Xingchuan",
+        "前往B站关注": "BiliBili",
+        "前往抖音关注": "TikTok",
+        "福利": "Ad"
     }
 }
