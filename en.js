@@ -3,9 +3,9 @@ export default {
         "filter": "Filter",
         "select_all": "Select All",
         "deselect_all": "Deselect All",
-        "close": "Close",
-        "move_left": "Move Left",
-        "move_right": "Move Right"
+        "close": "",
+        "move_left": "",
+        "move_right": ""
     },
     "tabs": {
         "by_category": "Category",
@@ -42,6 +42,12 @@ export default {
         "login_btn_hint": "Manage my data",
         "back_to_categories": "Back to Categories",
         "display_area": "Area Filter",
+        "select_item_category": "Select",
+        "related_items": "Related Items",
+        "locate_item": "Click on item to locate",
+        "search_resources": "Search Resources",
+        "input_resource_name": "Input name",
+        "locate": "Locate"
     },
     "floor_text": {
         "roof": "( Roof )",
