@@ -65,6 +65,7 @@ export default {
         "tiktok": "前往抖音关注",
         "ad": "福利",
         "jd": "京东限时福利：30元通用优惠券，满30就能用",
+        "daigan": "代肝微信公众号搜索： PC电竟俱乐部",
         "login_warring": "请先输入公众号回复的内容才能进行登录",
     },
     "floor_text": {

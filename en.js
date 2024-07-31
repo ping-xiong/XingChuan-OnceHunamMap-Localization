@@ -65,6 +65,7 @@ export default {
         "tiktok": "TikTok",
         "ad": "Ad",
         "jd": "Ad is not available in English version",
+        "daigan": "Ad is not available in English version",
         "login_warring": "Please get the text from Discord Server bot first.",
     },
     "floor_text": {
