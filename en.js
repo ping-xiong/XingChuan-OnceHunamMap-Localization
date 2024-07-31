@@ -165,11 +165,14 @@ export default {
         "小型资源点": "Village",
         "收容井": "Securement Silo",
         "位面锚": "Rift Anchor",
+        "空间锚点": "Rift Anchor",
         // Treasures
         "神秘宝藏": "Mysterious Chest",
+        "神秘宝箱": "Mysterious Chest",
         "武器箱": "Weapon Crate",
         "装备箱": "Gear Crate",
         "隐藏宝箱": "Hidden Crate",
+        "秘藏宝箱": "Hidden Crate",
         "宝箱怪": "Morphic Crate",
         "储物箱": "Storage Crate",
         // Explore
@@ -184,12 +187,19 @@ export default {
         "收容物": "Deviant",
         "诡谲画作": "Mysterious Painting",
         "矿物点": "Mineral",
-        "采集点": "Plant",
+        "采集点": "Material",
+        "种子箱": "Seed Chest",
+        "调味料箱": "Spice Chest",
+        "种子香料": "Seed & Spice",
+        "饮料机": "Drink Machine",
+        "火药箱": "Gunpowder Chest",
+        "抗菌剂箱": "Medicine Chest",
         // PvP
         "回响石": "Echo Stone",
         // Hint
         "留言": "Hint",
         "隐藏任务": "Side Quest",
+        "支线任务": "Side Quest",
         "商人": "Merchant",
         "宜居地点": "Livable Location",
         // Regions

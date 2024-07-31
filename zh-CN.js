@@ -19,7 +19,7 @@ export default {
         "quick_setting_resource": "资源密集区",
         "quick_setting_bus_route": "怪物巴士路线",
         "area": "地点区域",
-        "treasure": "宝箱密藏",
+        "treasure": "宝箱秘藏",
         "monster": "事件怪物",
         "collection": "收集要素",
         "hint": "地图提示",
