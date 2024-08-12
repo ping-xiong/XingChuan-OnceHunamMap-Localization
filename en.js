@@ -193,7 +193,7 @@ export default {
         "调味料箱": "Spice Chest",
         "种子香料": "Seed & Spice",
         "饮料机": "Drink Machine",
-        "火药箱": "Gunpowder Chest",
+        "随机素材箱": "Random Chest",
         "抗菌剂箱": "Medicine Chest",
         // PvP
         "回响石": "Echo Stone",
