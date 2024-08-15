@@ -93,7 +93,10 @@ export default {
         "wasm": "Wasm (性能最好)",
         "canvas": "Canvas (兼容最好)",
         "on": "開啟",
-        "off": "關閉"
+        "off": "關閉",
+        "draw_text_mode": "標記文本樣式",
+        "draw_text_mode_1": "完整",
+        "draw_text_mode_2": "精簡"
     },
     "user_data": {
         "local_storage": "本地數據",

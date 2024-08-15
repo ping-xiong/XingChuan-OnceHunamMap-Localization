@@ -93,7 +93,10 @@ export default {
         "wasm": "Wasm (Best Performance)",
         "canvas": "Canvas (Best Compatibility)",
         "on": "On",
-        "off": "Off"
+        "off": "Off",
+        "draw_text_mode": "Marker Text Style",
+        "draw_text_mode_1": "Complete",
+        "draw_text_mode_2": "Simplified"
     },
     "user_data": {
         "local_storage": "Local Data",
