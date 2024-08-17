@@ -35,7 +35,7 @@ export default {
         "oneclick_delete_dialog_content": "开启一键删除模式后，点击地图上的标记不会再出现弹窗，取而代之的是直接删除标记或者恢复标记，是否继续开启？'",
         "oneclick_delete_dialog_close": "关闭",
         "oneclick_delete_dialog_confirm": "开启",
-        "batch_editing_enable": "批量管理",
+        "batch_editing_enable": "进度管理",
         "batch_editing_disable": "退出管理",
         "batch_editing_hint": "可以批量删除或者恢复某个分类所有的标记，需要登录才能使用。",
         "setting_btn_hint": "与地图相关的设置",
@@ -67,11 +67,15 @@ export default {
         "jd": "京东限时福利：30元通用优惠券，满30就能用",
         "daigan": "代肝微信公众号搜索： PC电竟俱乐部",
         "login_warring": "请先输入公众号回复的内容才能进行登录",
+        "delete_all": "全删",
+        "resume_all": "恢复",
+        "exit_management_mode": "退出管理模式"
     },
     "floor_text": {
         "roof": "( 在楼顶 )",
         "at_floor": "( 在{floor}层 )",
-        "underground": "( 在负{floor}层 )"
+        "underground": "( 在负{floor}层 )",
+        "level": "( {level}级 )"
     },
     "settings": {
         "has_video": "专属视频攻略标记",

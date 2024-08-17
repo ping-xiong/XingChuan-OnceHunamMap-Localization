@@ -67,11 +67,15 @@ export default {
         "jd": "京東限時福利：30元通用優惠券，滿30就能用",
         "daigan": "代肝微信公眾號搜索： PC電竟俱樂部",
         "login_warring": "請先輸入公眾號回覆的內容才能進行登錄",
+        "delete_all": "全刪",
+        "resume_all": "恢復",
+        "exit_management_mode": "退出管理模式"
     },
     "floor_text": {
         "roof": "( 在樓頂 )",
         "at_floor": "( 在{floor}層 )",
-        "underground": "( 在負{floor}層 )"
+        "underground": "( 在負{floor}層 )",
+        "level": "( {level}級 )"
     },
     "settings": {
         "has_video": "專屬視頻攻略標記",
