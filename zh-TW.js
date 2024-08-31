@@ -101,7 +101,11 @@ export default {
         "off": "關閉",
         "draw_text_mode": "標記文本樣式",
         "draw_text_mode_1": "完整",
-        "draw_text_mode_2": "精簡"
+        "draw_text_mode_2": "精簡",
+        "deleted_marker_style": "被刪除的標記顯示樣式",
+        "deleted_marker_style_1": "打紅叉",
+        "deleted_marker_style_2": "半透明",
+        "deleted_marker_style_3": "隱藏標記",
     },
     "user_data": {
         "local_storage": "本地數據",
@@ -158,7 +162,10 @@ export default {
         "donate": "贊助",
         "auto_reset_help_title": "自動恢復功能幫助",
         "auto_reset_help_text": "武器箱和裝備箱的固定刷新時間從00:00:00開始，每4小時整點刷新。如果到了刷新點還不能開箱子，重新登入一下即可。",
-        "auto_reset_help_ok": "我知道了"
+        "auto_reset_help_ok": "我知道了",
+        "click_to_copy": "點擊複製遊戲座標",
+        "copied_successfully": "複製成功",
+        "common_hint": "通用提示"
     },
     "donate": {
         "payment": "請使用微信掃碼",

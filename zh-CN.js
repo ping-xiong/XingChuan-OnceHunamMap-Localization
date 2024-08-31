@@ -101,7 +101,11 @@ export default {
         "off": "关闭",
         "draw_text_mode": "标记文本样式",
         "draw_text_mode_1": "完整",
-        "draw_text_mode_2": "精简"
+        "draw_text_mode_2": "精简",
+        "deleted_marker_style": "被删除的标记显示样式",
+        "deleted_marker_style_1": "打红叉",
+        "deleted_marker_style_2": "半透明",
+        "deleted_marker_style_3": "隐藏标记",
     },
     "user_data": {
         "local_storage": "本地数据",
@@ -158,7 +162,10 @@ export default {
         "donate": "打赏",
         "auto_reset_help_title": "自动恢复功能帮助",
         "auto_reset_help_text": "武器箱和装备箱的固定刷新时间从00:00:00开始，每4小时整点刷新。如果到了刷新点还不能开箱子，重新登录一下即可。",
-        "auto_reset_help_ok": "我知道了"
+        "auto_reset_help_ok": "我知道了",
+        "click_to_copy": "点击复制游戏坐标",
+        "copied_successfully": "复制成功",
+        "common_hint": "通用提示"
     },
     "donate": {
         "payment": "请使用微信扫码",

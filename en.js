@@ -101,7 +101,11 @@ export default {
         "off": "Off",
         "draw_text_mode": "Marker Text Style",
         "draw_text_mode_1": "Complete",
-        "draw_text_mode_2": "Simplified"
+        "draw_text_mode_2": "Simplified",
+        "deleted_marker_style": "Deleted Marker Style",
+        "deleted_marker_style_1": "Cross",
+        "deleted_marker_style_2": "Translucent",
+        "deleted_marker_style_3": "Hide",
     },
     "user_data": {
         "local_storage": "Local Data",
@@ -157,7 +161,10 @@ export default {
         "donate": "Donate",
         "auto_reset_help_title": "Help",
         "auto_reset_help_text": "The fixed refresh time for weapon crates and gear crates starts at 00:00:00 and refreshes every 4 hours on the hour. If you still can't open the crates when you reach the refresh time, just log in again.",
-        "auto_reset_help_ok": "OK"
+        "auto_reset_help_ok": "OK",
+        "click_to_copy": "Click to Copy",
+        "copied_successfully": "Copied Successfully",
+        "common_hint": "General Tips"
     },
     "donate": {
         "payment": "Please scan the QR code using WeChat",
