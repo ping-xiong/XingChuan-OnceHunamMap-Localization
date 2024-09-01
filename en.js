@@ -142,8 +142,9 @@ export default {
         "close": "Close",
         "detail": "Detail",
         "operation": "Operation",
-        "timer_title": "Reset Timer",
-        "timer_title_not_login": "(Need Login) Reset Timer",
+        "timer_title": "Crate Reset Timer",
+        "timer_title_not_login": "(Need Login) Crate Reset Timer",
+        "deviant_timer_title": "Deviant Reset Timer",
         "to_login": "Login to Unlock Timer Feature",
         "comment": "Comments",
         "auto_set_timer": "Auto Set Timer",
@@ -949,6 +950,9 @@ export default {
         "鲑鱼": "Salmon",
         "鲳鲹": "Pompano",
         "松鼠": "Squirrel",
-        "亚口鱼": "Sucker"
+        "亚口鱼": "Sucker",
+        // scenario
+        "PvE-天空之触": "PvE-MANIBUS",
+        "PvP-分歧之路": "PvP-Evolution's Call"
     }
 }

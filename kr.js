@@ -148,6 +148,7 @@ export default {
         "comment": "댓글",
         "auto_set_timer": "타이머 자동 설정",
         "auto_set_timer_not_login": "(로그인 필요) 타이머 자동 설정",
+        "deviant_timer_title": "Deviant Reset Timer",
         "timer_tutorial": "타이머 튜토리얼",
         "sharing": "공유",
         "session_script": "현재 나오는 서버 : ",
@@ -993,6 +994,8 @@ export default {
         "慈鲷[青玉]": "감성돔[청옥]",
         "慈鲷[金元宝]": "감성돔[금원보]",
         "慈鲷[狮头]": "감성돔[사자머리]",
-
+        // scenario
+        "PvE-天空之触": "PvE-MANIBUS",
+        "PvP-分歧之路": "PvP-Evolution's Call"
     }
 }

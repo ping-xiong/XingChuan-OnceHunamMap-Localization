@@ -74,9 +74,9 @@ export default {
     },
     "floor_text": {
         "roof": "( Крыша )",
-        "at_floor": "( Пол {пол} )",
-        "underground": "( Этаж {этаж} Подземный )",
-        "level": "( Lv. {уровень} )"
+        "at_floor": "( Пол {floor} )",
+        "underground": "( Этаж {floor} Подземный )",
+        "level": "( Lv. {level} )"
     },
     "settings": {
         "has_video": "Видеомаркер",
@@ -144,6 +144,7 @@ export default {
         "operation": "Операция",
         "timer_title": "Сброс таймера",
         "timer_title_not_login": "(Необходимо войти) Сброс таймера",
+        "deviant_timer_title": "Deviant Reset Timer",
         "to_login": "Войти в систему для разблокировки функции таймера",
         "comment": "Комментарии",
         "auto_set_timer": "Автоматическая установка таймера",
@@ -949,6 +950,9 @@ export default {
         "鲑鱼": "Salmon",
         "鲳鲹": "Pompano",
         "松鼠": "Squirrel",
-        "亚口鱼": "Sucker"
+        "亚口鱼": "Sucker",
+        // scenario
+        "PvE-天空之触": "PvE-MANIBUS",
+        "PvP-分歧之路": "PvP-Evolution's Call"
     }
 }
