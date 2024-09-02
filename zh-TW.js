@@ -143,13 +143,14 @@ export default {
         "close": "關閉",
         "detail": "詳情",
         "operation": "標記操作",
-        "timer_title": "武器箱&裝備箱定時恢復",
-        "timer_title_not_login": "(需登錄) 武器箱&裝備箱定時恢復",
+        "timer_title": "定時器",
+        "timer_title_not_login": "(需登錄) 定時器",
+        "deviant_timer_title": "收容物定時器",
         "to_login": "前往登錄以使用定時功能",
         "comment": "餘音",
-        "auto_set_timer": "自動設置定時恢復",
-        "auto_set_timer_not_login": "(需登錄) 自動設置定時恢復",
-        "timer_tutorial": "定時恢復教程",
+        "auto_set_timer": "自動設置定時器",
+        "auto_set_timer_not_login": "(需登錄) 自動設置定時器",
+        "timer_tutorial": "定時器教程",
         "sharing": "分享",
         "session_script": "收容物所屬賽季: ",
         "hint": "【星川提醒您】",
@@ -950,6 +951,9 @@ export default {
         "鲑鱼": "鮭魚",
         "鲳鲹": "鯧鲹",
         "松鼠": "松鼠",
-        "亚口鱼": "亞口魚"
+        "亚口鱼": "亞口魚",
+        // scenario
+        "PvE-天空之触": "PvE-天空之觸",
+        "PvP-分歧之路": "PvP-分歧之路"
     }
 }
