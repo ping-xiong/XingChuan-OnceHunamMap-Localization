@@ -184,8 +184,8 @@ export default {
         "位面锚": "Rift Anchor",
         "空间锚点": "Rift Anchor",
         // Treasures
-        "神秘宝藏": "Mysterious Chest",
-        "神秘宝箱": "Mysterious Chest",
+        "神秘宝藏": "Mystical Crate", //Updated Name Ingame One
+        "神秘宝箱": "Mystical Crate", //Updated Name Ingame One
         "武器箱": "Weapon Crate",
         "装备箱": "Gear Crate",
         "隐藏宝箱": "Hidden Crate",
@@ -660,7 +660,8 @@ export default {
         "木工河狸": "Logging Beaver",
         "空间魔方": "Space Turner",
         "元素小子": "Digby Boy",
-        //"": "Snow Globe",
+        "雪景球": "Snow Globe",
+        "上界之卵": "Upper World Spawn",
         "庞然大菇": "Growshroom",
         "皆斩": "Zeno-Purifier",
         "门扉": "Strange Door",
@@ -668,7 +669,7 @@ export default {
         "巫毒娃娃": "Voodoo Doll",
         "炎之精": "Flame Essence",
         "破碎少女": "Shattered Maiden",
-        //"": "Mini Wonder",
+        "迷你奇点": "Mini Wonder",
         "异维大猫": "Extradimensional Cat",
         "球状闪电": "Orb Lightning",
         "迷你黄衣": "Mini Feaster",
@@ -677,7 +678,7 @@ export default {
         //"": "Artisan's Touch",
         "愿望先生": "Mr Wish",
         "红龙": "Pyro Dino",
-        //"": "Dr. Teddy",
+        "熊医生": "Dr. Teddy",
         "恶臭球根": "Grumpy Bulb",
         "空之子": "By-The-Wind",
         //"": "Lava Fox",
