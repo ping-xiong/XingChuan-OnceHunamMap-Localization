@@ -66,7 +66,7 @@ export default {
         "ad": "福利",
         "ad2": "代肝",
         "jd": "京东限时福利：30元通用优惠券，满30就能用",
-        "daigan": "代肝微信公众号搜索： DD俱乐部",
+        "daigan": "代肝微信公众号搜索： OU俱乐部",
         "login_warring": "请先输入公众号回复的内容才能进行登录",
         "delete_all": "全删",
         "resume_all": "恢复",

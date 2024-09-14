@@ -66,7 +66,7 @@ export default {
         "ad": "福利",
         "ad2": "代肝",
         "jd": "京東限時福利：30元通用優惠券，滿30就能用",
-        "daigan": "代肝微信公眾號搜索： DD俱乐部",
+        "daigan": "代肝微信公眾號搜索： OU俱乐部",
         "login_warring": "請先輸入公眾號回覆的內容才能進行登錄",
         "delete_all": "全刪",
         "resume_all": "恢復",
