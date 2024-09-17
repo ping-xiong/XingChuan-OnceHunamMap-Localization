@@ -1117,7 +1117,7 @@ export default {
         "松鼠": "다람쥐",
         "亚口鱼": "아구어",
         // scenario
-        "PvE-天空之触": "PvE-MANIBUS",
-        "PvP-分歧之路": "PvP-Evolution's Call"
+        "PvE-天空之触": "PVE-터치 오브 스카이",
+        "PvP-分歧之路": "PVP-진화의 부름"
     }
 }
