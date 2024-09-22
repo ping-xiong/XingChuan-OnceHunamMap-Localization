@@ -70,7 +70,8 @@ export default {
         "login_warring": "请先输入公众号回复的内容才能进行登录",
         "delete_all": "全删",
         "resume_all": "恢复",
-        "exit_management_mode": "退出管理模式"
+        "exit_management_mode": "退出管理模式",
+        "select_scenario": "剧本地图"
     },
     "floor_text": {
         "roof": "( 在楼顶 )",
@@ -152,7 +153,7 @@ export default {
         "auto_set_timer_not_login": "(需登录) 自动设置定时器",
         "timer_tutorial": "定时器教程",
         "sharing": "分享",
-        "session_script": "收容物所属赛季: ",
+        "session_script": "收容物所属剧本: ",
         "hint": "【星川提醒您】",
         "sharing_hint": "分享链接可以在打开后自动显示该标记",
         "download_qr_code": "点击下载二维码",

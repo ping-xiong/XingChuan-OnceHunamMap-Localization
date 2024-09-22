@@ -70,7 +70,8 @@ export default {
         "login_warring": "먼저 디스코드 들어가서, 서버 봇에게 텍스트를 받으세요.",
         "delete_all": "전부 삭제",
         "resume_all": "전부 복원",
-        "exit_management_mode": "나가기"
+        "exit_management_mode": "나가기",
+        "select_scenario": "Scenario"
     },
     "floor_text": {
         "roof": "( 옥상 )",

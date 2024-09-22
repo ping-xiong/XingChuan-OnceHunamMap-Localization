@@ -70,7 +70,8 @@ export default {
         "login_warring": "Please get the text from Discord Server bot first.",
         "delete_all": "Delete All",
         "resume_all": "Restore",
-        "exit_management_mode": "Exit"
+        "exit_management_mode": "Exit",
+        "select_scenario": "Scenario"
     },
     "floor_text": {
         "roof": "( Roof )",

@@ -76,6 +76,7 @@ export default {
     delete_all: "Alle entfernen",
     resume_all: "Wiederherstellen",
     exit_management_mode: "Zurück",
+    select_scenario: "Scenario"
   },
   floor_text: {
     roof: "( Dach )",

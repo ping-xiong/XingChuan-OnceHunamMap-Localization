@@ -70,7 +70,8 @@ export default {
         "login_warring": "Пожалуйста, сначала получите текст от бота сервера Discord.",
         "delete_all": "Удалить все",
         "resume_all": "Восстановить",
-        "exit_management_mode": "Выход"
+        "exit_management_mode": "Выход",
+        "select_scenario": "Scenario"
     },
     "floor_text": {
         "roof": "( Крыша )",

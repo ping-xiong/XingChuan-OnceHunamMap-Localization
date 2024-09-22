@@ -70,7 +70,8 @@ export default {
         "login_warring": "請先輸入公眾號回覆的內容才能進行登錄",
         "delete_all": "全刪",
         "resume_all": "恢復",
-        "exit_management_mode": "退出管理模式"
+        "exit_management_mode": "退出管理模式",
+        "select_scenario": "剧本地图"
     },
     "floor_text": {
         "roof": "( 在樓頂 )",
