@@ -18,6 +18,9 @@ export default {
         "quick_setting_fuel_loot": "摸油路线",
         "quick_setting_resource": "资源密集区",
         "quick_setting_bus_route": "怪物巴士路线",
+        "quick_setting_show_players": "显示玩家",
+        "quick_setting_pollution": "污染区",
+        "quick_setting_popup_coordinate": "指针显示坐标",
         "area": "地点区域",
         "treasure": "宝箱秘藏",
         "monster": "事件怪物",
@@ -173,6 +176,13 @@ export default {
         "payment": "请使用微信扫码",
         "text": "您的支持可以帮助网站持续运营和更多功能更新",
         "warning": "未成年人禁止打赏"
+    },
+    "scenario": {
+        "not_available": "尚未开放",
+        "current": "使用中",
+        "available": "可切换",
+        "coming": "适配中",
+        "scenarios": "剧本"
     },
     "categories": {
         // The key name will be the Chinese name when Chinese translation is missing.

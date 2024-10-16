@@ -18,6 +18,9 @@ export default {
         "quick_setting_fuel_loot": "Fuel Loot",
         "quick_setting_resource": "Resource",
         "quick_setting_bus_route": "Monster Bus",
+        "quick_setting_show_players": "Show Players",
+        "quick_setting_pollution": "Pollution",
+        "quick_setting_popup_coordinate": "Coordinate Follow Pointer",
         "area": "Areas",
         "treasure": "Treasures",
         "monster": "Explore",
@@ -172,6 +175,13 @@ export default {
         "payment": "Please scan the QR code using WeChat",
         "text": "Your support can help the website continue to operate and update more features",
         "warning": "Minors are prohibited from donating"
+    },
+    "scenario": {
+        "not_available": "Not Available",
+        "current": "Current",
+        "available": "Available",
+        "coming": "Coming",
+        "scenarios": "Scenarios"
     },
     "categories": {
         // Areas
@@ -954,6 +964,8 @@ export default {
         "亚口鱼": "Sucker",
         // scenario
         "PvE-天空之触": "PvE-MANIBUS",
-        "PvP-分歧之路": "PvP-Evolution's Call"
+        "PvP-分歧之路": "PvP-Evolution's Call",
+        // map
+        "玩家": "Player"
     }
 }

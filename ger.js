@@ -18,6 +18,9 @@ export default {
     quick_setting_fuel_loot: "Treibstoffbeute",
     quick_setting_resource: "Ressource",
     quick_setting_bus_route: "Monster Bus",
+    quick_setting_show_players: "Show Players",
+    quick_setting_pollution: "Pollution",
+    "quick_setting_popup_coordinate": "Coordinate Follow Pointer",
     area: "Umgebungen",
     treasure: "Schätze",
     monster: "Erkunden",
@@ -184,6 +187,13 @@ export default {
     payment: "Bitte scanne den QR code mit WeChat",
     text: "Deine Unterstützung kann dazu beitragen, die Seite Operationsbereit zu halten und diese zu Aktualisieren!",
     warning: "Minderjährigen wird das Spenden verboten",
+  },
+  scenario: {
+      "not_available": "Not Available",
+      "current": "Current",
+      "available": "Available",
+      "coming": "Coming",
+      "scenarios": "Scenarios"
   },
   categories: {
     // Areas
@@ -969,5 +979,7 @@ export default {
     // scenario
     "PvE-天空之触": "PvE-MANIBUS",
     "PvP-分歧之路": "PvP-Evolution's Call",
+    // map
+    "玩家": "Player"
   },
 };

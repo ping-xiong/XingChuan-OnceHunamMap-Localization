@@ -18,6 +18,9 @@ export default {
         "quick_setting_fuel_loot": "Добыча топлива",
         "quick_setting_resource": "Ресурсы",
         "quick_setting_bus_route": "Автобус монстр",
+        "quick_setting_show_players": "Show Players",
+        "quick_setting_pollution": "Pollution",
+        "quick_setting_popup_coordinate": "Coordinate Follow Pointer",
         "area": "Области",
         "treasure": "Сокровища",
         "monster": "Исследовать",
@@ -172,6 +175,13 @@ export default {
         "payment": "Пожалуйста сканироуйте QR code",
         "text": "Ваша поддержка поможет сайту продолжать работу и обновлять новые функции",
         "warning": "Несовершеннолетним запрещено донатить"
+    },
+    "scenario": {
+        "not_available": "Not Available",
+        "current": "Current",
+        "available": "Available",
+        "coming": "Coming",
+        "scenarios": "Scenarios"
     },
     "categories": {
         // Areas
@@ -954,6 +964,8 @@ export default {
         "亚口鱼": "Sucker",
         // scenario
         "PvE-天空之触": "PvE-MANIBUS",
-        "PvP-分歧之路": "PvP-Evolution's Call"
+        "PvP-分歧之路": "PvP-Evolution's Call",
+        // map
+        "玩家": "Player"
     }
 }

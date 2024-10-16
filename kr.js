@@ -19,6 +19,9 @@ export default {
         "quick_setting_fuel_loot": "휴대용 혼합유 파밍 경로",
         "quick_setting_resource": "자원",
         "quick_setting_bus_route": "몬스터 버스(완더러)",
+        "quick_setting_show_players": "Show Players",
+        "quick_setting_pollution": "Pollution",
+        "quick_setting_popup_coordinate": "Coordinate Follow Pointer",
         "area": "지역",
         "treasure": "상자",
         "monster": "탐색",
@@ -173,6 +176,13 @@ export default {
         "payment": "위챗에서 QR코드를 스캔해주세요",
         "text": "귀하의 후원은 웹사이트가 계속 운영되고 더 많은 기능을 업데이트하는 데 도움이 됩니다",
         "warning": "미성년자는 후원이 금지됩니다"
+    },
+    "scenario": {
+        "not_available": "Not Available",
+        "current": "사용중",
+        "available": "전환 가능",
+        "coming": "개발중",
+        "scenarios": "시나리오"
     },
     "categories": {
         // Areas
@@ -1125,15 +1135,13 @@ export default {
         "松鼠": "다람쥐",
         "亚口鱼": "아구어",
         // scenario
-        "刷本": "시나리오",
         "PvE-天空之触": "PVE-터치 오브 스카이",
         "PvP-分歧之路": "PVP-진화의 부름",
         "PvP-逆位战争": "PVP-프리즘 전쟁",
         "PvE-雪国人生": "PVE-혹독한 겨울",
-        "使用中": "사용중",
-        "可切换": "전환 가능",
-        "适配中": "개발중",
         //
-        "污染值": "오염 수치"
+        "污染值": "오염 수치",
+        // map
+        "玩家": "Player"
     }
 }
