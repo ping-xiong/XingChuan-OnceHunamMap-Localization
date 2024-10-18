@@ -15,10 +15,12 @@ export default {
         "setting": "설정",
         "user_data": "유저 데이터",
         "quick_setting": "빠른 설정",
-        "污染区": "오염 지역",
         "quick_setting_fuel_loot": "휴대용 혼합유 파밍 경로",
         "quick_setting_resource": "자원",
         "quick_setting_bus_route": "몬스터 버스(완더러)",
+        "quick_setting_show_players": "유저 위치",
+        "quick_setting_pollution": "오염 지역",
+        "quick_setting_popup_coordinate": "좌표 추적 포인터",
         "area": "지역",
         "treasure": "상자",
         "monster": "탐색",
@@ -71,7 +73,8 @@ export default {
         "login_warring": "먼저 디스코드 들어가서, 서버 봇에게 텍스트를 받으세요.",
         "delete_all": "전부 삭제",
         "resume_all": "전부 복원",
-        "exit_management_mode": "나가기"
+        "exit_management_mode": "나가기",
+        "select_scenario": "시나리오"
     },
     "floor_text": {
         "roof": "( 옥상 )",
@@ -143,13 +146,13 @@ export default {
         "close": "닫기",
         "detail": "세부 사항",
         "operation": "작동",
-        "timer_title": " 타이머 리셋 ",
-        "timer_title_not_login": "(로그인 필요) 타이머 리셋",
+        "timer_title": " 리셋 타이머",
+        "timer_title_not_login": "(로그인 필요) 리셋 타이머",
         "to_login": "로그인 하여 타이머 기능을 잠금 해제하세요",
         "comment": "댓글",
         "auto_set_timer": "타이머 자동 설정",
         "auto_set_timer_not_login": "(로그인 필요) 타이머 자동 설정",
-        "deviant_timer_title": "Deviant Reset Timer",
+        "deviant_timer_title": "감염물 리셋 타이머",
         "timer_tutorial": "타이머 튜토리얼",
         "sharing": "공유",
         "session_script": "현재 나오는 서버 : ",
@@ -172,6 +175,13 @@ export default {
         "payment": "위챗에서 QR코드를 스캔해주세요",
         "text": "귀하의 후원은 웹사이트가 계속 운영되고 더 많은 기능을 업데이트하는 데 도움이 됩니다",
         "warning": "미성년자는 후원이 금지됩니다"
+    },
+    "scenario": {
+        "not_available": "전환 불가능",
+        "current": "사용중",
+        "available": "전환 가능",
+        "coming": "개발중",
+        "scenarios": "시나리오"
     },
     "categories": {
         // Areas
@@ -1124,15 +1134,13 @@ export default {
         "松鼠": "다람쥐",
         "亚口鱼": "아구어",
         // scenario
-        "刷本": "시나리오",
         "PvE-天空之触": "PVE-터치 오브 스카이",
         "PvP-分歧之路": "PVP-진화의 부름",
         "PvP-逆位战争": "PVP-프리즘 전쟁",
         "PvE-雪国人生": "PVE-혹독한 겨울",
-        "使用中": "사용중",
-        "可切换": "전환 가능",
-        "适配中": "개발중",
         //
-        "污染值": "오염 수치"
+        "污染值": "오염 수치",
+        // map
+        "玩家": "유저"
     }
 }
