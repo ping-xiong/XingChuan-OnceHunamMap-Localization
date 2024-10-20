@@ -18,6 +18,9 @@ export default {
         "quick_setting_fuel_loot": "摸油路線",
         "quick_setting_resource": "資源密集區",
         "quick_setting_bus_route": "怪物巴士路線",
+        "quick_setting_show_players": "顯示玩家",
+        "quick_setting_pollution": "汙染區",
+        "quick_setting_popup_coordinate": "指針顯示坐標",
         "area": "地點區域",
         "treasure": "寶箱秘藏",
         "monster": "事件怪物",
@@ -66,11 +69,12 @@ export default {
         "ad": "福利",
         "ad2": "代肝",
         "jd": "京東限時福利：30元通用優惠券，滿30就能用",
-        "daigan": "代肝微信公眾號搜索： DD俱乐部",
+        "daigan": "代肝微信公眾號搜索： OU俱乐部",
         "login_warring": "請先輸入公眾號回覆的內容才能進行登錄",
         "delete_all": "全刪",
         "resume_all": "恢復",
-        "exit_management_mode": "退出管理模式"
+        "exit_management_mode": "退出管理模式",
+        "select_scenario": "剧本地图"
     },
     "floor_text": {
         "roof": "( 在樓頂 )",
@@ -172,6 +176,13 @@ export default {
         "payment": "請使用微信掃碼",
         "text": "您的支持可以幫助網站持續運營和更多功能更新",
         "warning": "未成年人禁止贊助"
+    },
+    "scenario": {
+        "not_available": "尚未開放",
+        "current": "使用中",
+        "available": "可切換",
+        "coming": "適配中",
+        "scenarios": "劇本"
     },
     "categories": {
         // Areas
@@ -954,6 +965,8 @@ export default {
         "亚口鱼": "亞口魚",
         // scenario
         "PvE-天空之触": "PvE-天空之觸",
-        "PvP-分歧之路": "PvP-分歧之路"
+        "PvP-分歧之路": "PvP-分歧之路",
+        // map
+        "玩家": "玩家"
     }
 }
