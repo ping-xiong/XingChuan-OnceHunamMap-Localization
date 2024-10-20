@@ -18,6 +18,9 @@ export default {
         "quick_setting_fuel_loot": "摸油路線",
         "quick_setting_resource": "資源密集區",
         "quick_setting_bus_route": "怪物巴士路線",
+        "quick_setting_show_players": "顯示玩家",
+        "quick_setting_pollution": "汙染區",
+        "quick_setting_popup_coordinate": "指針顯示坐標",
         "area": "地點區域",
         "treasure": "寶箱秘藏",
         "monster": "事件怪物",
@@ -66,11 +69,12 @@ export default {
         "ad": "福利",
         "ad2": "代肝",
         "jd": "京東限時福利：30元通用優惠券，滿30就能用",
-        "daigan": "代肝微信公眾號搜索： DD俱乐部",
+        "daigan": "代肝微信公眾號搜索： OU俱乐部",
         "login_warring": "請先輸入公眾號回覆的內容才能進行登錄",
         "delete_all": "全刪",
         "resume_all": "恢復",
-        "exit_management_mode": "退出管理模式"
+        "exit_management_mode": "退出管理模式",
+        "select_scenario": "剧本地图"
     },
     "floor_text": {
         "roof": "( 在樓頂 )",
@@ -172,6 +176,13 @@ export default {
         "payment": "請使用微信掃碼",
         "text": "您的支持可以幫助網站持續運營和更多功能更新",
         "warning": "未成年人禁止贊助"
+    },
+    "scenario": {
+        "not_available": "尚未開放",
+        "current": "使用中",
+        "available": "可切換",
+        "coming": "適配中",
+        "scenarios": "劇本"
     },
     "categories": {
         // Areas
@@ -570,8 +581,8 @@ export default {
         "刀剑": "刀劍",
         "头盔": "頭盔",
         "面部": "面具", // Face
-        "上身": "上身", // Top
-        "下身": "下身", // Bottom
+        "上身": "上半身", // Top
+        "下身": "下半身", // Bottom
         "手套": "手套",
         "鞋子": "鞋子",
         "瞄具配件": "瞄具配件",
@@ -590,8 +601,8 @@ export default {
         "武器通用": "武器通用", // ?
         "头盔模组": "頭盔模組",
         "面部模组": "面具模組", // Face mods
-        "上身模组": "上身模組", // Top mods
-        "下身模组": "下身模組", // Bottom Mods
+        "上身模组": "上半身模組", // Top mods
+        "下身模组": "下半身模組", // Bottom Mods
         "手套模组": "手套模組",
         "鞋子模组": "鞋子模組",
         "防具通用": "防具通用", // ?
@@ -615,8 +626,8 @@ export default {
         "鱼类": "魚類",
         "药草": "藥草",
         // Recipes - 食谱
-        "食谱：熏肉罗宋汤": "食譜：熏肉羅宋湯",
-        "食谱：畸变塔可卷": "食譜：畸變塔可卷", // In World item says Herbal Tea
+        "食谱：熏肉罗宋汤": "食譜：燻肉羅宋湯",
+        "食谱：畸变塔可卷": "食譜：異變塔可卷", // In World item says Herbal Tea
         "食谱：星尘茶": "食譜：星塵茶",
         "食谱：培根肉排汉堡": "食譜：培根肉排漢堡",
         "食谱：南瓜星空派": "食譜：南瓜星空派",
@@ -638,12 +649,12 @@ export default {
         "食谱:奇思妙想饮": "食譜：奇思妙想飲",
         "食谱：炸鱼薯条": "食譜：炸魚薯條",
         "食谱：幽灵饼干": "食譜：幽靈餅乾",
-        "食谱：畸变带骨香肠": "食譜：畸變帶骨香腸",
+        "食谱：畸变带骨香肠": "食譜：異變帶骨香腸",
         "食谱：捕获之汤": "食譜：捕獲之湯",
         "食谱：蜜酿炖肉": "食譜：蜜釀燉肉",
         // Deviants - 收容物
         "远归之蝶": "遠歸之蝶",
-        "活体凝胶": "活體凝膠",
+        "活体凝胶": "活性凝膠",
         "荣枯种子": "榮枯種子",
         "捕梦网": "捕夢網",
         "低语亡骨": "低語亡骨",
@@ -655,7 +666,7 @@ export default {
         "蜂团团": "蜂團團",
         "工号37": "工號37",
         //"": "Fetch-A-Lot Bunny",
-        "姜饼屋": "姜餅屋",
+        "姜饼屋": "薑餅屋",
         //"": "Atomic Lighter",
         "凝视的黑猫": "凝視的黑貓",
         "木工河狸": "木工河貍",
@@ -954,6 +965,8 @@ export default {
         "亚口鱼": "亞口魚",
         // scenario
         "PvE-天空之触": "PvE-天空之觸",
-        "PvP-分歧之路": "PvP-分歧之路"
+        "PvP-分歧之路": "PvP-分歧之路",
+        // map
+        "玩家": "玩家"
     }
 }
