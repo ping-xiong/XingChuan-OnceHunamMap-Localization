@@ -18,6 +18,9 @@ export default {
         "quick_setting_fuel_loot": "摸油路线",
         "quick_setting_resource": "资源密集区",
         "quick_setting_bus_route": "怪物巴士路线",
+        "quick_setting_show_players": "显示玩家",
+        "quick_setting_pollution": "污染区",
+        "quick_setting_popup_coordinate": "指针显示坐标",
         "area": "地点区域",
         "treasure": "宝箱秘藏",
         "monster": "事件怪物",
@@ -66,11 +69,12 @@ export default {
         "ad": "福利",
         "ad2": "代肝",
         "jd": "京东限时福利：30元通用优惠券，满30就能用",
-        "daigan": "代肝微信公众号搜索： DD俱乐部",
+        "daigan": "代肝微信公众号搜索： OU俱乐部",
         "login_warring": "请先输入公众号回复的内容才能进行登录",
         "delete_all": "全删",
         "resume_all": "恢复",
-        "exit_management_mode": "退出管理模式"
+        "exit_management_mode": "退出管理模式",
+        "select_scenario": "剧本地图"
     },
     "floor_text": {
         "roof": "( 在楼顶 )",
@@ -152,7 +156,7 @@ export default {
         "auto_set_timer_not_login": "(需登录) 自动设置定时器",
         "timer_tutorial": "定时器教程",
         "sharing": "分享",
-        "session_script": "收容物所属赛季: ",
+        "session_script": "收容物所属剧本: ",
         "hint": "【星川提醒您】",
         "sharing_hint": "分享链接可以在打开后自动显示该标记",
         "download_qr_code": "点击下载二维码",
@@ -172,6 +176,13 @@ export default {
         "payment": "请使用微信扫码",
         "text": "您的支持可以帮助网站持续运营和更多功能更新",
         "warning": "未成年人禁止打赏"
+    },
+    "scenario": {
+        "not_available": "尚未开放",
+        "current": "使用中",
+        "available": "可切换",
+        "coming": "适配中",
+        "scenarios": "剧本"
     },
     "categories": {
         // The key name will be the Chinese name when Chinese translation is missing.
