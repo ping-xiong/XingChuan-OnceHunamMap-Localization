@@ -280,7 +280,7 @@ export default {
         "内部传送塔": "Teleportation Tower",
         "巨人阶梯传送塔": "Teleportation Tower",
         "黑心内弯传送塔": "Blackheart's Bay Teleportation Tower",
-            //Way of Winter - 雪国人生
+        //Way of Winter - 雪国人生
         //"望海传送塔": "Teleportation Tower", //Way of Winter - 10/19/24
         "冻火湾传送塔": "Frost Forge Teleportation Tower", //Way of Winter - 10/19/24
         "冻火北部传送塔": "Frost North Teleportation Tower", //Way of Winter - 10/19/24
@@ -300,7 +300,7 @@ export default {
         "大河警戒区传送塔": "Taiga Exclusion Zone Teleportation Tower", //Way of Winter - 10/19/24
         "母巢巨穴传送塔": "Hiverail Cave Teleportation Tower", //Way of Winter - 10/19/24
         "破碎岩礁传送塔": "Broken Reefs teleportation Tower", //Way of Winter - 10/19/24
-        
+
 
         // Monoliths - 巨楔
         "贪欲巨楔": "Monolith of Greed",
@@ -308,7 +308,7 @@ export default {
         "黯梦巨楔": "Mirage Monolith",
         "尖牙巨楔": "Monolith of Thirst",
         "遗忘巨楔": "Forsaken Monolith",
-            //Way of Winter - 雪国人生
+        //Way of Winter - 雪国人生
         "冻原巨楔": "Tundra Monolith", //Way of Winter - 10/19/24
         "雪崩巨楔": "Avalanche Monolith", //Way of Winter - 10/19/24
         // Settlements - 主城
@@ -317,16 +317,16 @@ export default {
         "秽水营地": "Greywater Camp",
         "深草旅店": "Tall Grass Inn",
         "黑原镇": "Blackfell",
-            //Way of Winter - 雪国人生
+        //Way of Winter - 雪国人生
         "遗忘之地": "Oblivion", //Way of Winter - 10/19/24
         "熊栖雪场": "Bear's Den", //Way of Winter - 10/19/24
         "鲸骨乡": "Whale Bone", //Way of Winter - 10/19/24
         "冰屋营地": "Ice House Camp", //Way of Winter - 10/19/24
 
-        
+
         // Labs - 研究所
         "生命进化研究所": "HP Evolution Institute",
-        
+
         // Towns - 大型资源点
         "中途镇": "Throughville",
         "腐烂庄园": "Rotten Manor",
@@ -373,7 +373,7 @@ export default {
         "73号源质分离点": "73 Source Extraction Point",
         "太阳农场": "Sunshine Farm",
         "白崖基地": "White Cliff",
-            //Way of Winter - 雪国人生
+        //Way of Winter - 雪国人生
         "灼风气象站": "Scorchwind Observatory", //Way of Winter - 10/19/24
         "炎神研究所": "Fire God Research Center", //Way of Winter - 10/19/24
         "圣城前哨": "Firethroat Outskirts", //Way of Winter - 10/19/24
@@ -388,8 +388,8 @@ export default {
         "望火港": "Firewatch Harbor", //Way of Winter - 10/19/24
         "烟袋度假区": "Tabcco Resort", //Way of Winter - 10/19/24
         "黑石灯塔": "Obsidian Lighthouse", //way of Winter - 10/19/24
-        
-        
+
+
 
 
         // Villages
@@ -455,9 +455,9 @@ export default {
         "检测点384": "Inspection Point 384",
         "矿镇": "Mining Town",
         "翠湖游客中心": "Greenlake Visitor Center",
-            //Way of Winter - 雪国人生
+        //Way of Winter - 雪国人生
         "搁浅滩涂": "Stranding Mudflats",
-        
+
 
         // Securement Silos - 收容井
         "收容井-西格玛": "Securement Silo - Sigma",
@@ -467,20 +467,20 @@ export default {
         "收容井-寒境": "Securement Silo - Psi",
         "收容井-西塔": "Securement Silo - Theta",
         // Rift Anchors - 位面锚
-            // has no individual names yet in chinese
+        // has no individual names yet in chinese
         // Mysterious Chests - 神秘宝藏
-            // has no individual names
+        // has no individual names
         // Weapon Crates - 武器箱
-            // has no individual names
+        // has no individual names
         "武器箱【剧情箱子】": "Weapon Crate【Story】",
         // Gear Crates - 装备箱
-            // has no individual names
+        // has no individual names
         // Hidden Crates - 隐藏宝箱
-            // has no individual names
+        // has no individual names
         // Morphic Crates - 宝箱怪
-            // has no individual names
+        // has no individual names
         // Storage Crates - 储物箱
-            // has no individual names
+        // has no individual names
         // Elites - 精英怪
         "暴食狂": "Glutton",
         "屠夫": "Arbiter",
@@ -497,18 +497,18 @@ export default {
         "乐园向导": "Balloon Boy",
         "夜魇": "Cervitaur",
         "天气预报": "Weather Forecast",
-        "罪人守望": "Sinner Sentry", 
+        "罪人守望": "Sinner Sentry",
         //"”教练“ 【清剿目标】": "", //removed?
         //'"龙脊" 科利·兰根': "", //removed?
         "罗塞塔防暴员": "Rosetta Bruiser",
         "罗塞塔机械师": "Rosetta Mechanic",
         "罗塞塔重装员": "Rosetta Heavy",
         // Fog Events - 迷雾区域
-            // has no individual names
+        // has no individual names
         // Workshops - 防守工坊
-            // has no individual names
+        // has no individual names
         // Moving Houses - 移动房屋
-            // has no individual names
+        // has no individual names
         // Red Events - 限时事件
         "这里没有迪斯科": "Where Does Disco Go?",
         "湖之暗面": "The Dark Side",
@@ -862,7 +862,7 @@ export default {
         // Oil Wells
         "原油油井": "Oil Well",
         // Echo Stone - 回响石
-            // has no individual names
+        // has no individual names
         // Hints - 留言
         "别靠近箱子": "Mimic",
         "地堡门禁卡": "Bunker Access Card",
@@ -963,7 +963,7 @@ export default {
         "鱼饵商人【霜之白班钩鱼蓝图兑换处】": "Margerie【Fish Blueprints】",
         // Livable Location - 宜居地点
         // Livable Location are the recommended places to live with subjective opinions, These are usually large flat areas with rich resources and close to water sources.
-            // has no individual names
+        // has no individual names
         // Not sure where/if the following are used.
         "异常点": "Abnormal Object",
         "稀有": "Rare",
@@ -1026,6 +1026,155 @@ export default {
         "PvP-逆位战争": "PvP-Prismverse's Clash", // 10/19/24
         "PvE-雪国人生": "PvE-Way of Winter", // 10/19/24
         // map
-        "玩家": "Player"
+        "玩家": "Player",
+
+        "私有收容仓": "私有收容仓",
+        "观景点": "观景点",
+        "出生点": "出生点",
+        "私有收容仓": "私有收容仓",
+        "阳姜": "阳姜",
+        "薄荷": "薄荷",
+        "雪茸": "雪茸",
+        "混合矿场": "混合矿场",
+        "火刺果": "火刺果",
+        "雪崩巨楔传送塔": "雪崩巨楔传送塔",
+        "雪崖传送塔": "雪崖传送塔",
+        "食品厂货栈": "食品厂货栈",
+        "潮间地农场": "潮间地农场",
+        "林场": "林场",
+        "干涸码头": "干涸码头",
+        "松林猎场": "松林猎场",
+        "纵队前哨": "纵队前哨",
+        "废弃避难所": "废弃避难所",
+        "废弃水塔": "废弃水塔",
+        "幽谷民居": "幽谷民居",
+        "瞭望处": "瞭望处",
+        "破败码头": "破败码头",
+        "洞口营地": "洞口营地",
+        "海边旧屋": "海边旧屋",
+        "幽灵渔村": "幽灵渔村",
+        "倒挂遗迹": "倒挂遗迹",
+        "临时调查营地": "临时调查营地",
+        "路边野餐": "路边野餐",
+        "古船农场": "古船农场",
+        "瞭望点": "瞭望点",
+        "鲸骨遗迹": "鲸骨遗迹",
+        "悬索营地": "悬索营地",
+        "荒废农庄": "荒废农庄",
+        "悬索货栈": "悬索货栈",
+        "废弃探险营地": "废弃探险营地",
+        "栈道木屋": "栈道木屋",
+        "悬船冰洞": "悬船冰洞",
+        "雪松小屋": "雪松小屋",
+        "暖火营地": "暖火营地",
+        "断桥": "断桥",
+        "空间锚点·慕斯市": "空间锚点·慕斯市",
+        "空间锚点·搁浅滩涂": "空间锚点·搁浅滩涂",
+        "空间锚点·烟袋度假区": "空间锚点·烟袋度假区",
+        "空间锚点·慕斯市食品厂": "空间锚点·慕斯市食品厂",
+        "空间锚点·“大河”收容场": "空间锚点·“大河”收容场",
+        "空间锚点·“心愿奇境”": "空间锚点·“心愿奇境”",
+        "空间锚点·菲斯库尔港": "空间锚点·菲斯库尔港",
+        "空间锚点·悬船冰洞": "空间锚点·悬船冰洞",
+        "空间锚点·废弃矿洞二层": "空间锚点·废弃矿洞二层",
+        "空间锚点·“母巢”收容保护区": "空间锚点·“母巢”收容保护区",
+        "空间锚点·冻火湾": "空间锚点·冻火湾",
+        "空间锚点·断桥": "空间锚点·断桥",
+        "空间锚点·“黑域”之门": "空间锚点·“黑域”之门",
+        "空间锚点·致命信号": "空间锚点·致命信号",
+        "收容井-德尔塔": "收容井-德尔塔",
+        "电梯": "电梯",
+        "乖乖兔": "乖乖兔",
+        "食谱：黄油松茸": "食谱：黄油松茸",
+        "食谱：硬邦邦姜糖": "食谱：硬邦邦姜糖",
+        "食谱：蜜蛋弹弹乐": "食谱：蜜蛋弹弹乐",
+        "食谱：雪茸蛋炒饭": "食谱：雪茸蛋炒饭",
+        "食谱：水果派": "食谱：水果派",
+        "食谱：噼里啪啦南瓜汤": "食谱：噼里啪啦南瓜汤",
+        "食谱：炙热炖肉火锅": "食谱：炙热炖肉火锅",
+        "食谱：鲜肉咖喱饭": "食谱：鲜肉咖喱饭",
+        "食谱：砰砰爆米花": "食谱：砰砰爆米花",
+        "食谱：水果蛋糕": "食谱：水果蛋糕",
+        "食谱：炙热烈焰蛋挞": "食谱：炙热烈焰蛋挞",
+        "慕斯市": "慕斯市",
+        "慕斯市食品厂": "慕斯市食品厂",
+        "“心愿奇境”西园区": "“心愿奇境”西园区",
+        "菲斯库尔港": "菲斯库尔港",
+        "“母巢”收容保护区": "“母巢”收容保护区",
+        "雪崩巨楔警戒区": "雪崩巨楔警戒区",
+        "冻火湾": "冻火湾",
+        "黑石要塞": "黑石要塞",
+        "“大河”收容场": "“大河”收容场",
+        "“心愿奇境”东园区": "“心愿奇境”东园区",
+        "冻原巨楔警戒区": "冻原巨楔警戒区",
+        "栖木缆车站": "栖木缆车站",
+        "检测点653": "检测点653",
+        "罗塞塔巡逻站": "罗塞塔巡逻站",
+        "栖木岭观景台": "栖木岭观景台",
+        "慕斯市郊废屋": "慕斯市郊废屋",
+        "融冰港": "融冰港",
+        "藏火岩洞": "藏火岩洞",
+        "乐园东入口": "乐园东入口",
+        "乐园西入口": "乐园西入口",
+        "滑索洞穴营地": "滑索洞穴营地",
+        "悬空哨卡": "悬空哨卡",
+        "雪原气象站": "雪原气象站",
+        "避火者地堡": "避火者地堡",
+        "火喉圣域": "火喉圣域",
+        "炽尘巨楔警戒区": "炽尘巨楔警戒区",
+        "灰落市": "灰落市",
+        "影日洞穴": "影日洞穴",
+        "纵队巡逻点": "纵队巡逻点",
+        "硫磺池采伐区": "硫磺池采伐区",
+        "温泉民宿": "温泉民宿",
+        "异火码头": "异火码头",
+        "无明港": "无明港",
+        "蛇眼瞭望点": "蛇眼瞭望点",
+        "蛇腹洞穴": "蛇腹洞穴",
+        "宝箱怪位置待定": "宝箱怪位置待定",
+        "气球异常：轻量化红点瞄具": "气球异常：轻量化红点瞄具",
+        "玩偶异常：戍卫前握把": "玩偶异常：戍卫前握把",
+        "凝石异常：斜切握把": "凝石异常：斜切握把",
+        "凝石异常：远射补偿器": "凝石异常：远射补偿器",
+        "凝石异常：小型补偿器": "凝石异常：小型补偿器",
+        "冰块宝箱：轻型光学瞄具": "冰块宝箱：轻型光学瞄具",
+        "冰块宝箱：手枪加长型弹匣": "冰块宝箱：手枪加长型弹匣",
+        "冰块宝箱：步枪扩容弹匣": "冰块宝箱：步枪扩容弹匣",
+        "凝石异常：轻型握把": "凝石异常：轻型握把",
+        "冰块宝箱：冲锋枪加重型弹匣": "冰块宝箱：冲锋枪加重型弹匣",
+        "凝石异常：隐秘抑制器": "凝石异常：隐秘抑制器",
+        "冰块宝箱：轻机枪大型弹鼓": "冰块宝箱：轻机枪大型弹鼓",
+        "凝石异常：一体式消焰器": "凝石异常：一体式消焰器",
+        "冰块宝箱：手枪战术型弹匣": "冰块宝箱：手枪战术型弹匣",
+        "凝石异常：冲锋枪战术型弹匣": "凝石异常：冲锋枪战术型弹匣",
+        "凝石异常：奇袭制退器": "凝石异常：奇袭制退器",
+        "凝石异常：步枪轻量化弹匣": "凝石异常：步枪轻量化弹匣",
+        "凝石异常：密封型反射式瞄具": "凝石异常：密封型反射式瞄具",
+        "气球异常：消焰器": "气球异常：消焰器",
+        "气球异常：小型制退器": "气球异常：小型制退器",
+        "冰块宝箱：狙击枪战术弹匣": "冰块宝箱：狙击枪战术弹匣",
+        "脚印异常：精准步枪瞄具": "脚印异常：精准步枪瞄具",
+        "气球异常：狙击枪改良弹匣": "气球异常：狙击枪改良弹匣",
+        "气球异常：小型红外指示器": "气球异常：小型红外指示器",
+        "气球异常：垂直握把": "气球异常：垂直握把",
+        "松鼠异常：棕熊反射式瞄具": "松鼠异常：棕熊反射式瞄具",
+        "观景台": "观景台",
+        "气球异常": "气球异常",
+        "玩偶异常": "玩偶异常",
+        "冰块宝箱": "冰块宝箱",
+        "冷晶矿": "冷晶矿",
+        "冰晶矿": "冰晶矿",
+        "热岩矿": "热岩矿",
+        "寒冰瓜": "寒冰瓜",
+        "乌鸦蛋": "乌鸦蛋",
+        "极地椒 * 3": "极地椒 * 3",
+        "驯鹿": "驯鹿",
+        "野牛": "野牛",
+        "海豹": "海豹",
+        "母羊": "母羊",
+        "公羊": "公羊",
+        "北极狐": "北极狐",
+        "北极熊": "北极熊",
+        "熊": "熊"
     }
 }
