@@ -195,8 +195,8 @@ export default {
         "位面锚": "Rift Anchor",
         "空间锚点": "Rift Anchor",
         // Treasures
-        "神秘宝藏": "Mysterious Chest",
-        "神秘宝箱": "Mysterious Chest",
+        "神秘宝藏": "Mystical Crate", //Updated Name Ingame One
+        "神秘宝箱": "Mystical Crate", //Updated Name Ingame One
         "武器箱": "Weapon Crate",
         "装备箱": "Gear Crate",
         "隐藏宝箱": "Hidden Crate",
@@ -280,20 +280,53 @@ export default {
         "内部传送塔": "Teleportation Tower",
         "巨人阶梯传送塔": "Teleportation Tower",
         "黑心内弯传送塔": "Blackheart's Bay Teleportation Tower",
+            //Way of Winter - 雪国人生
+        //"望海传送塔": "Teleportation Tower", //Way of Winter - 10/19/24
+        "冻火湾传送塔": "Frost Forge Teleportation Tower", //Way of Winter - 10/19/24
+        "冻火北部传送塔": "Frost North Teleportation Tower", //Way of Winter - 10/19/24
+        "鲸骨湾传送塔": "Whalebone Bay Teleportation Tower", //Way of Winter - 10/19/24
+        "山阴传送塔": "Mountain Shade Teleportation Tower", //Way of Winter - 10/19/24
+        "水畔传送塔": "Waterside Teleportation Tower", //Way of Winter - 10/19/24
+        "港区传送塔": "Harbor District Teleportation Tower", //Way of Winter - 10/19/24
+        "绿野传送塔": "Green Field Teleportation Tower", //Way of Winter - 10/19/24
+        "乐园传送塔": "Wish Land Teleportation Tower", //Way of Winter - 10/19/24
+        "望海传送塔": "Oceanview Teleportation Tower", //Way of Winter - 10/19/24
+        "林场传送塔": "Woodland Ranch Teleportation Tower", //Way of Winter - 10/19/24
+        "慕斯市传送塔": "Mousseville Teleportation Tower", //Way of Winter - 10/19/24
+        "潮间地传送塔": "Tidal Bore Teleportation Tower", //Way of Winter - 10/19/24
+        "黑石东部传送塔": "East Blackstone Teleportation Tower", //Way of Winter - 10/19/24
+        "黑石北部传送塔": "North Blackstone Teleportation Tower", //Way of Winter - 10/19/24
+        "冻原中部传送塔": "Central Tundra Teleportation Tower", //Way of Winter - 10/19/24
+        "大河警戒区传送塔": "Taiga Exclusion Zone Teleportation Tower", //Way of Winter - 10/19/24
+        "母巢巨穴传送塔": "Hiverail Cave Teleportation Tower", //Way of Winter - 10/19/24
+        "破碎岩礁传送塔": "Broken Reefs teleportation Tower", //Way of Winter - 10/19/24
+        
+
         // Monoliths - 巨楔
         "贪欲巨楔": "Monolith of Greed",
         "盖亚巨楔": "Gaia Cliff Monolith",
         "黯梦巨楔": "Mirage Monolith",
         "尖牙巨楔": "Monolith of Thirst",
         "遗忘巨楔": "Forsaken Monolith",
+            //Way of Winter - 雪国人生
+        "冻原巨楔": "Tundra Monolith", //Way of Winter - 10/19/24
+        "雪崩巨楔": "Avalanche Monolith", //Way of Winter - 10/19/24
         // Settlements - 主城
         "旅人营地": "Deadsville",
         "迈尔集市": "Meyer's Market",
         "秽水营地": "Greywater Camp",
         "深草旅店": "Tall Grass Inn",
         "黑原镇": "Blackfell",
+            //Way of Winter - 雪国人生
+        "遗忘之地": "Oblivion", //Way of Winter - 10/19/24
+        "熊栖雪场": "Bear's Den", //Way of Winter - 10/19/24
+        "鲸骨乡": "Whale Bone", //Way of Winter - 10/19/24
+        "冰屋营地": "Ice House Camp", //Way of Winter - 10/19/24
+
+        
         // Labs - 研究所
         "生命进化研究所": "HP Evolution Institute",
+        
         // Towns - 大型资源点
         "中途镇": "Throughville",
         "腐烂庄园": "Rotten Manor",
@@ -340,6 +373,25 @@ export default {
         "73号源质分离点": "73 Source Extraction Point",
         "太阳农场": "Sunshine Farm",
         "白崖基地": "White Cliff",
+            //Way of Winter - 雪国人生
+        "灼风气象站": "Scorchwind Observatory", //Way of Winter - 10/19/24
+        "炎神研究所": "Fire God Research Center", //Way of Winter - 10/19/24
+        "圣城前哨": "Firethroat Outskirts", //Way of Winter - 10/19/24
+        "火喉下城": "Firethroat Fortress", //Way of Winter - 10/19/24
+        "灰落车站": "Ashenton Station", //Way of Winter - 10/19/24
+        "熟土农庄": "Ripe Land Farm", //Way of Winter - 10/19/24
+        "蛇尾滑索营地": "Serpent's Tail Camp", //Way of Winter - 10/19/24
+        "火喉弃民街": "Firethroat Slums", //Way of Winter - 10/19/24
+        "燃尽之地": "Charred Wasteland", //Way of Winter - 10/19/24
+        "废弃提炼厂": "Abandoned Refinery", //Way of Winter - 10/19/24
+        "攀火祭祀场": "Fire Aspect", //Way of Winter - 10/19/24
+        "望火港": "Firewatch Harbor", //Way of Winter - 10/19/24
+        "烟袋度假区": "Tabcco Resort", //Way of Winter - 10/19/24
+        "黑石灯塔": "Obsidian Lighthouse", //way of Winter - 10/19/24
+        
+        
+
+
         // Villages
         "中途镇变电站": "Throughville Substation",
         "检测点3771": "Inspection Point 3771",
@@ -403,6 +455,10 @@ export default {
         "检测点384": "Inspection Point 384",
         "矿镇": "Mining Town",
         "翠湖游客中心": "Greenlake Visitor Center",
+            //Way of Winter - 雪国人生
+        "搁浅滩涂": "Stranding Mudflats",
+        
+
         // Securement Silos - 收容井
         "收容井-西格玛": "Securement Silo - Sigma",
         "收容井-斐": "Securement Silo - Phi",
@@ -671,7 +727,8 @@ export default {
         "木工河狸": "Logging Beaver",
         "空间魔方": "Space Turner",
         "元素小子": "Digby Boy",
-        //"": "Snow Globe",
+        "雪景球": "Snow Globe",
+        "上界之卵": "Upper World Spawn",
         "庞然大菇": "Growshroom",
         "皆斩": "Zeno-Purifier",
         "门扉": "Strange Door",
@@ -679,7 +736,7 @@ export default {
         "巫毒娃娃": "Voodoo Doll",
         "炎之精": "Flame Essence",
         "破碎少女": "Shattered Maiden",
-        //"": "Mini Wonder",
+        "迷你奇点": "Mini Wonder",
         "异维大猫": "Extradimensional Cat",
         "球状闪电": "Orb Lightning",
         "迷你黄衣": "Mini Feaster",
@@ -688,7 +745,7 @@ export default {
         //"": "Artisan's Touch",
         "愿望先生": "Mr Wish",
         "红龙": "Pyro Dino",
-        //"": "Dr. Teddy",
+        "熊医生": "Dr. Teddy",
         "恶臭球根": "Grumpy Bulb",
         "空之子": "By-The-Wind",
         //"": "Lava Fox",
@@ -962,9 +1019,12 @@ export default {
         "鲳鲹": "Pompano",
         "松鼠": "Squirrel",
         "亚口鱼": "Sucker",
-        // scenario
+        // Scenario
         "PvE-天空之触": "PvE-MANIBUS",
         "PvP-分歧之路": "PvP-Evolution's Call",
+
+        "PvP-逆位战争": "PvP-Prismverse's Clash", // 10/19/24
+        "PvE-雪国人生": "PvE-Way of Winter", // 10/19/24
         // map
         "玩家": "Player"
     }
