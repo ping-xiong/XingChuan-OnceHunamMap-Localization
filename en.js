@@ -292,7 +292,7 @@ export default {
         "乐园传送塔": "Wish Land Teleportation Tower", //Way of Winter - 10/19/24
         "望海传送塔": "Oceanview Teleportation Tower", //Way of Winter - 10/19/24
         "林场传送塔": "Woodland Ranch Teleportation Tower", //Way of Winter - 10/19/24
-        "慕斯市传送塔": "Mousseville Teleportation Tower", //Way of Winter - 10/19/24
+        "慕斯市传送塔": "Moose City Teleportation Tower", //Way of Winter - 10/19/24
         "潮间地传送塔": "Tidal Bore Teleportation Tower", //Way of Winter - 10/19/24
         "黑石东部传送塔": "East Blackstone Teleportation Tower", //Way of Winter - 10/19/24
         "黑石北部传送塔": "North Blackstone Teleportation Tower", //Way of Winter - 10/19/24
@@ -331,6 +331,7 @@ export default {
 
         // Labs - 研究所
         "生命进化研究所": "HP Evolution Institute",
+        "”黑域“之门": "Entrance of the Zone of Haze", //Way of Winter - 10/21/24
 
         // Towns - 大型资源点
         "中途镇": "Throughville",
@@ -400,8 +401,8 @@ export default {
         "纵队巡逻点": "Guerilla Partrol Point", //Way of Winter - 10/21/24
         "硫磺池采伐区": "Sulphur Quarry", //Way of Winter - 10/21/24
         "温泉民宿": "Hot Spring Inn", //Way of Winter - 10/21/24
-        "火喉圣域": "Firethroat Fortress", //Way of Winter - 10/21/24 (Might not be accurate)
-        "冻火湾": "冻火湾",
+        "火喉圣域": "Firethroat Fortress", //Way of Winter - 10/21/24 (Might not be accurate) <--- Come Back
+        "冻火湾": "Frost Forge", //Way of Winter - 10/21/24
         "避火者地堡": "Flame Sanctuary", //Way of Winter - 10/21/24
         "炽尘巨楔警戒区": "Firedust Monolith Danger Zone", //Way of Winter - 10/21/24
         "“母巢”收容保护区": "Hiverail Restricted Area", //Way of Winter - 10/21/24
@@ -413,13 +414,19 @@ export default {
         "“大河”收容场": "“Great River“ Shelter Zone", //Way of Winter - 10/21/24
         "罗塞塔巡逻站": "Rosetta Patrol Station", //Way of Winter - 10/21/24
         "慕斯市食品厂": "Moose City Food Factory", //Way of Winter - 10/21/24
-        "慕斯市": "Moosseville", //Way of Winter - 10/21/24 (Partial Guess Based on Teleporter)
+        "慕斯市": "Moose City", //Way of Winter - 10/21/24 (Partial Guess Based on Teleporter)
         "慕斯市郊废屋": "Abandoned House on the Outskirts of Moose City", //Way of Winter - 10/21/24
         "栖木岭观景台": "Perching Tree Prospect Observation Desk", //Way of Winter - 10/21/24
         "栖木缆车站": "Perching Tree Cable Car Station", //Way of Winter - 10/21/24
         "藏火岩洞": "Firehide Cavern", //Way of Winter - 10/21/24
-
-
+        "黑石要塞": "Blackstone Fortress", //Way of Winter - 10/21/24
+        "“心愿奇境”西园区": "Wishland West", //Way of Winter - 10/21/24
+        "“心愿奇境”东园区": "Wishland East", //Way of Winter - 10/21/24
+        "乐园东入口": "Wishland East Entrance", //Way of Winter - 10/21/24
+        "乐园西入口": "Wishland West Entrance", //Way of Winter - 10/21/24
+        "滑索洞穴营地": "Zipline Cave Camp", //Way of Winter - 10/21/24
+        "融冰港": "Icemelt Harbor", //Way of Winter - 10/21/24
+        "菲斯库尔港": "Fiskur Harbor", //Way of Winter - 10/21/24
 
 
         // Villages
@@ -525,7 +532,25 @@ export default {
         "收容井-阿尔法": "Securement Silo - Alpha",
         "收容井-寒境": "Securement Silo - Psi",
         "收容井-西塔": "Securement Silo - Theta",
-        // Rift Anchors - 位面锚
+        
+        
+        // Rift Anchors - 位面锚 // 空间锚点 = Rift Anchor
+        //Way of Winter - 雪国人生
+        "空间锚点·断桥": "Collapsed Bridge - Rift Anchor", //Way of Winter - 10/21/24
+        "空间锚点·“心愿奇境”": "Wishland West - Rift Anchor", //Way of Winter - 10/21/24         
+        "空间锚点·慕斯市食品厂": "Moose City Food Factory - Rift Anchor", //Way of Winter - 10/21/24
+        "空间锚点·慕斯市": "Moose City - Rift Anchor", //Way of Winter - 10/21/24
+        "空间锚点·搁浅滩涂": "Stranding Mudflats - Rift Anchor", //Way of Winter - 10/21/24
+        "空间锚点·烟袋度假区": "Tabcco Resort - Rift Anchor", //Way of Winter - 10/21/24
+        "空间锚点·悬船冰洞": "Dangling Vessel Cove - Rift Anchor", //Way of Winter - 10/21/24
+        "空间锚点·菲斯库尔港": "Fiskur Harbor - Rift Anchor", //Way of Winter - 10/21/24
+        "空间锚点·“母巢”收容保护区": "Hiverail Restricted Area - Rift Anchor", //Way of Winter - 10/21/24
+        "空间锚点·黑石要塞": "Blackstone Fortress - Rift Anchor", //Way of Winter - 10/21/24
+        "空间锚点·“大河”收容场": "“Great River“ Shelter Zone - Rift Anchor", //Way of Winter - 10/21/24
+        "空间锚点·冻火湾": "Frost Forge - Rift Anchor", //Way of Winter - 10/21/24
+        "空间锚点·“黑域”之门": "Entrance of the Zone of Haze - Rift Anchor", //Way of Winter - 10/21/24
+
+
         // has no individual names yet in chinese
         // Mysterious Chests - 神秘宝藏
         // has no individual names
@@ -1126,19 +1151,17 @@ export default {
 
 
 
-        "空间锚点·慕斯市": "空间锚点·慕斯市",
-        "空间锚点·搁浅滩涂": "空间锚点·搁浅滩涂",
-        "空间锚点·烟袋度假区": "空间锚点·烟袋度假区",
-        "空间锚点·慕斯市食品厂": "空间锚点·慕斯市食品厂",
-        "空间锚点·“大河”收容场": "空间锚点·“大河”收容场",
-        "空间锚点·“心愿奇境”": "空间锚点·“心愿奇境”",
-        "空间锚点·菲斯库尔港": "空间锚点·菲斯库尔港",
-        "空间锚点·悬船冰洞": "空间锚点·悬船冰洞",
+
+
+
+
+
+
+
+
         "空间锚点·废弃矿洞二层": "空间锚点·废弃矿洞二层",
-        "空间锚点·“母巢”收容保护区": "空间锚点·“母巢”收容保护区",
-        "空间锚点·冻火湾": "空间锚点·冻火湾",
-        "空间锚点·断桥": "空间锚点·断桥",
-        "空间锚点·“黑域”之门": "空间锚点·“黑域”之门",
+
+
         "空间锚点·致命信号": "空间锚点·致命信号",
         "收容井-德尔塔": "收容井-德尔塔",
         "电梯": "电梯",
@@ -1154,41 +1177,8 @@ export default {
         "食谱：砰砰爆米花": "食谱：砰砰爆米花",
         "食谱：水果蛋糕": "食谱：水果蛋糕",
         "食谱：炙热烈焰蛋挞": "食谱：炙热烈焰蛋挞",
-
-
-        "“心愿奇境”西园区": "“心愿奇境”西园区",
-        "菲斯库尔港": "菲斯库尔港",
-   
-
-
-        "黑石要塞": "黑石要塞",
-
-        "“心愿奇境”东园区": "“心愿奇境”东园区",
- 
-
-
-
-
-
-        "融冰港": "融冰港",
-
-        "乐园东入口": "乐园东入口",
-        "乐园西入口": "乐园西入口",
-        "滑索洞穴营地": "滑索洞穴营地",
-
-
-
-
-
         "灰落市": "灰落市",
         "影日洞穴": "影日洞穴",
-
-
-
-
-
-
-
         "宝箱怪位置待定": "宝箱怪位置待定",
         "气球异常：轻量化红点瞄具": "气球异常：轻量化红点瞄具",
         "玩偶异常：戍卫前握把": "玩偶异常：戍卫前握把",
