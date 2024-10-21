@@ -392,8 +392,32 @@ export default {
         "攀火祭祀场": "Fire Aspect", //Way of Winter - 10/19/24
         "望火港": "Firewatch Harbor", //Way of Winter - 10/19/24
         "烟袋度假区": "Tabcco Resort", //Way of Winter - 10/19/24
-        "黑石灯塔": "Obsidian Lighthouse", //way of Winter - 10/19/24
-
+        "黑石灯塔": "Obsidian Lighthouse", //Way of Winter - 10/19/24
+        "异火码头": "Pyro Harbor", //Way of Winter - 10/21/24
+        "无明港": "Lightless Port", //Way of Winter - 10/21/24
+        "蛇眼瞭望点": "Snakeeye Lookout", //Way of Winter - 10/21/24
+        "蛇腹洞穴": "Snakebelly Cave", //Way of Winter - 10/21/24
+        "纵队巡逻点": "Guerilla Partrol Point", //Way of Winter - 10/21/24
+        "硫磺池采伐区": "Sulphur Quarry", //Way of Winter - 10/21/24
+        "温泉民宿": "Hot Spring Inn", //Way of Winter - 10/21/24
+        "火喉圣域": "Firethroat Fortress", //Way of Winter - 10/21/24 (Might not be accurate)
+        "冻火湾": "冻火湾",
+        "避火者地堡": "Flame Sanctuary", //Way of Winter - 10/21/24
+        "炽尘巨楔警戒区": "Firedust Monolith Danger Zone", //Way of Winter - 10/21/24
+        "“母巢”收容保护区": "Hiverail Restricted Area", //Way of Winter - 10/21/24
+        "雪崩巨楔警戒区": "Avalanche Monolith Danger Zone", //Way of Winter - 10/21/24
+        "雪原气象站": "Snowfield Checkpoint", //Way of Winter - 10/21/24
+        "悬空哨卡": "Suspended Checkpoint", //Way of Winter - 10/21/24
+        "冻原巨楔警戒区": "Tundra Monolith Danger Zone", //Way of Winter - 10/21/24
+        "检测点653": "Inspection Point 653", //Way of Winter - 10/21/24
+        "“大河”收容场": "“Great River“ Shelter Zone", //Way of Winter - 10/21/24
+        "罗塞塔巡逻站": "Rosetta Patrol Station", //Way of Winter - 10/21/24
+        "慕斯市食品厂": "Moose City Food Factory", //Way of Winter - 10/21/24
+        "慕斯市": "Moosseville", //Way of Winter - 10/21/24 (Partial Guess Based on Teleporter)
+        "慕斯市郊废屋": "Abandoned House on the Outskirts of Moose City", //Way of Winter - 10/21/24
+        "栖木岭观景台": "Perching Tree Prospect Observation Desk", //Way of Winter - 10/21/24
+        "栖木缆车站": "Perching Tree Cable Car Station", //Way of Winter - 10/21/24
+        "藏火岩洞": "Firehide Cavern", //Way of Winter - 10/21/24
 
 
 
@@ -1130,41 +1154,41 @@ export default {
         "食谱：砰砰爆米花": "食谱：砰砰爆米花",
         "食谱：水果蛋糕": "食谱：水果蛋糕",
         "食谱：炙热烈焰蛋挞": "食谱：炙热烈焰蛋挞",
-        "慕斯市": "慕斯市",
-        "慕斯市食品厂": "慕斯市食品厂",
+
+
         "“心愿奇境”西园区": "“心愿奇境”西园区",
         "菲斯库尔港": "菲斯库尔港",
-        "“母巢”收容保护区": "“母巢”收容保护区",
-        "雪崩巨楔警戒区": "雪崩巨楔警戒区",
-        "冻火湾": "冻火湾",
+   
+
+
         "黑石要塞": "黑石要塞",
-        "“大河”收容场": "“大河”收容场",
+
         "“心愿奇境”东园区": "“心愿奇境”东园区",
-        "冻原巨楔警戒区": "冻原巨楔警戒区",
-        "栖木缆车站": "栖木缆车站",
-        "检测点653": "检测点653",
-        "罗塞塔巡逻站": "罗塞塔巡逻站",
-        "栖木岭观景台": "栖木岭观景台",
-        "慕斯市郊废屋": "慕斯市郊废屋",
+ 
+
+
+
+
+
         "融冰港": "融冰港",
-        "藏火岩洞": "藏火岩洞",
+
         "乐园东入口": "乐园东入口",
         "乐园西入口": "乐园西入口",
         "滑索洞穴营地": "滑索洞穴营地",
-        "悬空哨卡": "悬空哨卡",
-        "雪原气象站": "雪原气象站",
-        "避火者地堡": "避火者地堡",
-        "火喉圣域": "火喉圣域",
-        "炽尘巨楔警戒区": "炽尘巨楔警戒区",
+
+
+
+
+
         "灰落市": "灰落市",
         "影日洞穴": "影日洞穴",
-        "纵队巡逻点": "纵队巡逻点",
-        "硫磺池采伐区": "硫磺池采伐区",
-        "温泉民宿": "温泉民宿",
-        "异火码头": "异火码头",
-        "无明港": "无明港",
-        "蛇眼瞭望点": "蛇眼瞭望点",
-        "蛇腹洞穴": "蛇腹洞穴",
+
+
+
+
+
+
+
         "宝箱怪位置待定": "宝箱怪位置待定",
         "气球异常：轻量化红点瞄具": "气球异常：轻量化红点瞄具",
         "玩偶异常：戍卫前握把": "玩偶异常：戍卫前握把",
