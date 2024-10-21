@@ -427,8 +427,10 @@ export default {
         "滑索洞穴营地": "Zipline Cave Camp", //Way of Winter - 10/21/24
         "融冰港": "Icemelt Harbor", //Way of Winter - 10/21/24
         "菲斯库尔港": "Fiskur Harbor", //Way of Winter - 10/21/24
+        "影日洞穴": "Sunshroud Cave", //Way of Winter - 10/21/24
+        "灰落市": "Ashenton", //Way of Winter - 10/21/24
 
-
+        
         // Villages
         "中途镇变电站": "Throughville Substation",
         "检测点3771": "Inspection Point 3771",
@@ -549,7 +551,7 @@ export default {
         "空间锚点·“大河”收容场": "“Great River“ Shelter Zone - Rift Anchor", //Way of Winter - 10/21/24
         "空间锚点·冻火湾": "Frost Forge - Rift Anchor", //Way of Winter - 10/21/24
         "空间锚点·“黑域”之门": "Entrance of the Zone of Haze - Rift Anchor", //Way of Winter - 10/21/24
-
+        "空间锚点·致命信号": " Fatal Signal - Rift Anchor", //Way of Winter - 10/21/24
 
         // has no individual names yet in chinese
         // Mysterious Chests - 神秘宝藏
@@ -1160,9 +1162,6 @@ export default {
 
 
         "空间锚点·废弃矿洞二层": "空间锚点·废弃矿洞二层",
-
-
-        "空间锚点·致命信号": "空间锚点·致命信号",
         "收容井-德尔塔": "收容井-德尔塔",
         "电梯": "电梯",
         "乖乖兔": "乖乖兔",
@@ -1177,8 +1176,6 @@ export default {
         "食谱：砰砰爆米花": "食谱：砰砰爆米花",
         "食谱：水果蛋糕": "食谱：水果蛋糕",
         "食谱：炙热烈焰蛋挞": "食谱：炙热烈焰蛋挞",
-        "灰落市": "灰落市",
-        "影日洞穴": "影日洞穴",
         "宝箱怪位置待定": "宝箱怪位置待定",
         "气球异常：轻量化红点瞄具": "气球异常：轻量化红点瞄具",
         "玩偶异常：戍卫前握把": "玩偶异常：戍卫前握把",
