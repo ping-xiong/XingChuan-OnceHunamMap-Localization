@@ -5,7 +5,9 @@ export default {
         "deselect_all": "Deselect All",
         "close": "",
         "move_left": "",
-        "move_right": ""
+        "move_right": "",
+        "edit": "Edit",
+        "quit": "Quit"
     },
     "tabs": {
         "by_category": "Category",

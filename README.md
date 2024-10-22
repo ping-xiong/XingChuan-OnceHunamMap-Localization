@@ -31,3 +31,10 @@ You can use English key name for UI translation.
 ### 3. Add New Language Translations
 
 Create a new file, copy all the contents of the **en.js** file into it, and you can start translating.
+
+## How to Test My Changes
+
+1. Click the blue button to the right of the Filter button
+2. Click Translation Test Tool
+3. Click SELECT button
+4. Choose your new translation file
