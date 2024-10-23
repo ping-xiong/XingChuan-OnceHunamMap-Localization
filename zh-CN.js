@@ -5,7 +5,9 @@ export default {
         "deselect_all": "全不选",
         "close": "关闭",
         "move_left": "左移",
-        "move_right": "右移"
+        "move_right": "右移",
+        "edit": "编辑",
+        "quit": "退出"
     },
     "tabs": {
         "by_category": "分类",

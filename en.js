@@ -5,7 +5,9 @@ export default {
         "deselect_all": "Deselect All",
         "close": "",
         "move_left": "",
-        "move_right": ""
+        "move_right": "",
+        "edit": "Edit",
+        "quit": "Quit"
     },
     "tabs": {
         "by_category": "Category",
@@ -304,8 +306,6 @@ export default {
         "雪崖传送塔": "Snow Cliffs Teleportation Tower", //Way of Winter - 10/21/24
         "冻火西部传送塔": "Frost West Teleportation Tower", //Way of Winter - 10/21/24
         "烟袋群岛传送塔": "Pipe Island Teleportation Tower", //Way of Winter - 10/21/24
-        
-
 
         // Monoliths - 巨楔
         "贪欲巨楔": "Monolith of Greed",
@@ -430,7 +430,6 @@ export default {
         "影日洞穴": "Sunshroud Cave", //Way of Winter - 10/21/24
         "灰落市": "Ashenton", //Way of Winter - 10/21/24
 
-        
         // Villages
         "中途镇变电站": "Throughville Substation",
         "检测点3771": "Inspection Point 3771",
@@ -526,16 +525,14 @@ export default {
         "暖火营地": "Warmfire Camp", //Way of Winter - 10/21/24
         "雪松小屋": "Cedar Cabin", //Way of Winter - 10/21/24
 
-
         // Securement Silos - 收容井
         "收容井-西格玛": "Securement Silo - Sigma",
         "收容井-斐": "Securement Silo - Phi",
         "收容井-暗狱": "Securement Silo EX1",
         "收容井-阿尔法": "Securement Silo - Alpha",
         "收容井-寒境": "Securement Silo - Psi",
-        "收容井-西塔": "Securement Silo - Theta",
-        
-        
+        "收容井-西塔": "Securement Silo - Theta", 
+      
         // Rift Anchors - 位面锚 // 空间锚点 = Rift Anchor
         //Way of Winter - 雪国人生
         "空间锚点·断桥": "Collapsed Bridge - Rift Anchor", //Way of Winter - 10/21/24
@@ -1124,8 +1121,6 @@ export default {
         "出生点": "出生点",
         "私有收容仓": "私有收容仓",
 
-  
-
         "混合矿场": "混合矿场",
 
 
@@ -1181,6 +1176,7 @@ export default {
         "食谱：砰砰爆米花": "食谱：砰砰爆米花",
         "食谱：水果蛋糕": "食谱：水果蛋糕",
         "食谱：炙热烈焰蛋挞": "食谱：炙热烈焰蛋挞",
+
         "宝箱怪位置待定": "宝箱怪位置待定",
         "气球异常：轻量化红点瞄具": "气球异常：轻量化红点瞄具",
         "玩偶异常：戍卫前握把": "玩偶异常：戍卫前握把",
