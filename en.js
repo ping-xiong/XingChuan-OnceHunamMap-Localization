@@ -891,6 +891,10 @@ export default {
         "果蔬篮土豆": "Potato",
         "蘑菇": "Mushroom",
         "果蔬篮蘑菇": "Mushroom",
+        "火刺果": "Spikemato", //Way of Winter - 10/22/24
+        "阳姜": "Sunny Ginger", //Way of Winter - 10/22/24
+        "薄荷": "Mint", //Way of Winter - 10/22/24
+        "雪茸": "Snow Fungus", //Way of Winter - 10/22/24
         //"": "Cucumber",
         //"": "Tomato",
         //"": "Red Tulip",
@@ -976,6 +980,7 @@ export default {
         "下楼电梯位置": "Elevator",
         "隐藏宝箱最后位置": "Treasure Chest",
         "抽屉柜": "Drawers",
+        "混合矿场": "Mixed Mining",
         // Side Quests - 隐藏任务
         //"": "A Miracle Chase",
         "隐藏的宝箱": "Morphic Crate Tutorial", //
@@ -1118,11 +1123,11 @@ export default {
         "观景点": "观景点",
         "出生点": "出生点",
         "私有收容仓": "私有收容仓",
-        "阳姜": "阳姜",
-        "薄荷": "薄荷",
-        "雪茸": "雪茸",
+
+  
+
         "混合矿场": "混合矿场",
-        "火刺果": "火刺果",
+
 
 
 
