@@ -184,6 +184,14 @@ export default {
         "coming": "개발중",
         "scenarios": "시나리오"
     },
+    "languages": {
+        "dialog_title": "Select Language",
+        "dialog_close": "Close",
+        "contributors": "Contributors",
+        "help_1": "Didn't find the language you were looking for?",
+        "help_2": "Click here to help improve translations.",
+        "default": "Default"
+    },
     "categories": {
         "出生点": "출생지점",
         "观景点": "전망포인트",
