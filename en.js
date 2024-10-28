@@ -76,7 +76,9 @@ export default {
         "delete_all": "Delete All",
         "resume_all": "Restore",
         "exit_management_mode": "Exit",
-        "select_scenario": "Scenario"
+        "select_scenario": "Scenario",
+        "show_unreviewed_markers": "Unreviewed Markers",
+        "show_unreviewed_areas": "Unreviewed Areas",
     },
     "floor_text": {
         "roof": "( Roof )",
@@ -184,6 +186,14 @@ export default {
         "available": "Available",
         "coming": "Coming",
         "scenarios": "Scenarios"
+    },
+    "languages": {
+        "dialog_title": "Select Language",
+        "dialog_close": "Close",
+        "contributors": "Contributors",
+        "help_1": "Didn't find the language you were looking for?",
+        "help_2": "Click here to help improve translations.",
+        "default": "Default"
     },
     "categories": {
         // Areas

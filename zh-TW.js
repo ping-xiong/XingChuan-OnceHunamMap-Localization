@@ -5,7 +5,9 @@ export default {
         "deselect_all": "全不選",
         "close": "關閉",
         "move_left": "左移",
-        "move_right": "右移"
+        "move_right": "右移",
+        "edit": "编辑",
+        "quit": "退出"
     },
     "tabs": {
         "by_category": "分類",
@@ -74,7 +76,9 @@ export default {
         "delete_all": "全刪",
         "resume_all": "恢復",
         "exit_management_mode": "退出管理模式",
-        "select_scenario": "剧本地图"
+        "select_scenario": "剧本地图",
+        "show_unreviewed_markers": "显示审核中的标记",
+        "show_unreviewed_areas": "显示审核中的区域",
     },
     "floor_text": {
         "roof": "( 在樓頂 )",

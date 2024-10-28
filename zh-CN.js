@@ -74,9 +74,11 @@ export default {
         "daigan": "代肝微信公众号搜索： OU俱乐部",
         "login_warring": "请先输入公众号回复的内容才能进行登录",
         "delete_all": "全删",
-        "resume_all": "恢复",
+        "resume_all": "恢复",  
         "exit_management_mode": "退出管理模式",
-        "select_scenario": "剧本地图"
+        "select_scenario": "剧本地图",
+        "show_unreviewed_markers": "显示审核中的标记",
+        "show_unreviewed_areas": "显示审核中的区域",
     },
     "floor_text": {
         "roof": "( 在楼顶 )",
@@ -172,7 +174,8 @@ export default {
         "auto_reset_help_ok": "我知道了",
         "click_to_copy": "点击复制游戏坐标",
         "copied_successfully": "复制成功",
-        "common_hint": "通用提示"
+        "common_hint": "通用提示",
+        "contributors": "贡献者"
     },
     "donate": {
         "payment": "请使用微信扫码",
@@ -185,6 +188,14 @@ export default {
         "available": "可切换",
         "coming": "适配中",
         "scenarios": "剧本"
+    },
+    "languages": {
+        "dialog_title": "请选择语言",
+        "dialog_close": "关闭",
+        "contributors": "贡献者",
+        "help_1": "没有找到你想要的语言？",
+        "help_2": "点击这里帮助我们翻译",
+        "default": "默认"
     },
     "categories": {
         // The key name will be the Chinese name when Chinese translation is missing.
