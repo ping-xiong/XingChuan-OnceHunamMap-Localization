@@ -1130,12 +1130,12 @@ export default {
         // map
         "玩家": "Player",
 
-        "私有收容仓": "私有收容仓",
-        "观景点": "观景点",
-        "出生点": "出生点",
-        "私有收容仓": "私有收容仓",
+        "私有收容仓": "Private Securement Unit",
+        "观景点": "View Point",
+        "出生点": "Spawn Point",
+        "私有收容仓": "Private Securement Unit",
 
-        "混合矿场": "混合矿场",
+        "混合矿场": "Mixed Ore",
 
 
 
@@ -1175,10 +1175,10 @@ export default {
 
 
 
-        "空间锚点·废弃矿洞二层": "空间锚点·废弃矿洞二层",
-        "收容井-德尔塔": "收容井-德尔塔",
-        "电梯": "电梯",
-        "乖乖兔": "乖乖兔",
+        "空间锚点·废弃矿洞二层": "Rift Anchor - Abandoned Mine Floor 2",
+        "收容井-德尔塔": "Securement Silo - Delta",
+        "电梯": "elevator",
+        "乖乖兔": "Fetch-A-Lot Bunny",
         "食谱：黄油松茸": "Recipe: Butter Matsutake Mushrooms",
         "食谱：硬邦邦姜糖": "Recipe: GingerDrop",
         "食谱：蜜蛋弹弹乐": "Recipe: Ginger Poppers",
@@ -1220,23 +1220,23 @@ export default {
         "气球异常：小型红外指示器": "气球异常：小型红外指示器",
         "气球异常：垂直握把": "气球异常：垂直握把",
         "松鼠异常：棕熊反射式瞄具": "松鼠异常：棕熊反射式瞄具",
-        "观景台": "观景台",
-        "气球异常": "气球异常",
-        "玩偶异常": "玩偶异常",
-        "冰块宝箱": "冰块宝箱",
-        "冷晶矿": "冷晶矿",
-        "冰晶矿": "冰晶矿",
-        "热岩矿": "热岩矿",
-        "寒冰瓜": "寒冰瓜",
-        "乌鸦蛋": "乌鸦蛋",
-        "极地椒 * 3": "极地椒 * 3",
-        "驯鹿": "驯鹿",
-        "野牛": "野牛",
-        "海豹": "海豹",
-        "母羊": "母羊",
-        "公羊": "公羊",
-        "北极狐": "北极狐",
-        "北极熊": "北极熊",
-        "熊": "熊"
+        "观景台": "Scenic Viewpoint",
+        "气球异常": "balloon anomaly",
+        "玩偶异常": "doll anomaly",
+        "冰块宝箱": "ice Chest",
+        "冷晶矿": "Cold Crystal Ore",
+        "冰晶矿": "Cold Crystal Ore",
+        "热岩矿": "Hot Rock Ore",
+        "寒冰瓜": "Ice Melon",
+        "乌鸦蛋": "Raven Egg",
+        "极地椒 * 3": "Polar Pepper * 3",
+        "驯鹿": "Reindeer",
+        "野牛": "Bison",
+        "海豹": "Seal",
+        "母羊": "Ewe",
+        "公羊": "Ram",
+        "北极狐": "Fox",
+        "北极熊": "Polar Bear",
+        "熊": "Bear"
     }
 }
