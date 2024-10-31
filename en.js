@@ -221,6 +221,10 @@ export default {
         "防守工坊": "Workshop",
         "移动房屋": "Moving House",
         "限时事件": "Red Event",
+        "灭绝者": "Chaos Weaver",
+        "灭绝者(二阶段)": "Chaos Weaver(Stage 2)",
+        "冰灭绝者(一阶段)": "Ice Chaos Weaver(Stage 1)",
+        "冰灭绝者(二阶段)": "Ice Chaos Weaver(Stage 2)",
         // Collection
         "武器配件": "Attachment", // "Weapon Attachments" is too long and breaks the UI
         "食谱": "Recipe",
@@ -545,20 +549,20 @@ export default {
       
         // Rift Anchors - 位面锚 // 空间锚点 = Rift Anchor
         //Way of Winter - 雪国人生
-        "空间锚点·断桥": "Collapsed Bridge - Rift Anchor", //Way of Winter - 10/21/24
-        "空间锚点·“心愿奇境”": "Wishland West - Rift Anchor", //Way of Winter - 10/21/24         
-        "空间锚点·慕斯市食品厂": "Moose City Food Factory - Rift Anchor", //Way of Winter - 10/21/24
-        "空间锚点·慕斯市": "Moose City - Rift Anchor", //Way of Winter - 10/21/24
-        "空间锚点·搁浅滩涂": "Stranding Mudflats - Rift Anchor", //Way of Winter - 10/21/24
-        "空间锚点·烟袋度假区": "Tabcco Resort - Rift Anchor", //Way of Winter - 10/21/24
-        "空间锚点·悬船冰洞": "Dangling Vessel Cove - Rift Anchor", //Way of Winter - 10/21/24
-        "空间锚点·菲斯库尔港": "Fiskur Harbor - Rift Anchor", //Way of Winter - 10/21/24
-        "空间锚点·“母巢”收容保护区": "Hiverail Restricted Area - Rift Anchor", //Way of Winter - 10/21/24
-        "空间锚点·黑石要塞": "Blackstone Fortress - Rift Anchor", //Way of Winter - 10/21/24
-        "空间锚点·“大河”收容场": "“Great River“ Shelter Zone - Rift Anchor", //Way of Winter - 10/21/24
-        "空间锚点·冻火湾": "Frost Forge - Rift Anchor", //Way of Winter - 10/21/24
-        "空间锚点·“黑域”之门": "Entrance of the Zone of Haze - Rift Anchor", //Way of Winter - 10/21/24
-        "空间锚点·致命信号": " Fatal Signal - Rift Anchor", //Way of Winter - 10/21/24
+        "空间锚点·断桥": "Rift Anchor - Collapsed Bridge", //Way of Winter - 10/21/24
+        "空间锚点·“心愿奇境”": "Rift Anchor - Wishland - West", //Way of Winter - 10/21/24         
+        "空间锚点·慕斯市食品厂": "Rift Anchor - Mousseville Sweet Factory", //Way of Winter - 10/21/24
+        "空间锚点·慕斯市": "Rift Anchor - Moousseville", //Way of Winter - 10/21/24
+        "空间锚点·搁浅滩涂": "Rift Anchor - Stranded Marsh", //Way of Winter - 10/21/24
+        "空间锚点·烟袋度假区": "Rift Anchor - Tabacco Resort", //Way of Winter - 10/21/24
+        "空间锚点·悬船冰洞": "Rift Anchor - Dangling Vessel Cove", //Way of Winter - 10/21/24
+        "空间锚点·菲斯库尔港": "Rift Anchor - Fiskur Harbor", //Way of Winter - 10/21/24
+        "空间锚点·“母巢”收容保护区": "Rift Anchor - Hiverail Restricted Area", //Way of Winter - 10/21/24
+        "空间锚点·黑石要塞": "Rift Anchor - Obsidian Camp", //Way of Winter - 10/21/24
+        "空间锚点·“大河”收容场": "Rift Anchor - Taiga Containment Center", //Way of Winter - 10/21/24
+        "空间锚点·冻火湾": "Rift Anchor - Frost Forge", //Way of Winter - 10/21/24
+        "空间锚点·“黑域”之门": "Rift Anchor - Entrance of the Zone of Haze", //Way of Winter - 10/21/24
+        "空间锚点·致命信号": "Rift Anchor - Fatal Signal", //Way of Winter - 10/21/24
 
         // has no individual names yet in chinese
         // Mysterious Chests - 神秘宝藏
@@ -1126,12 +1130,12 @@ export default {
         // map
         "玩家": "Player",
 
-        "私有收容仓": "私有收容仓",
-        "观景点": "观景点",
-        "出生点": "出生点",
-        "私有收容仓": "私有收容仓",
+        "私有收容仓": "Private Securement Unit",
+        "观景点": "View Point",
+        "出生点": "Spawn Point",
+        "私有收容仓": "Private Securement Unit",
 
-        "混合矿场": "混合矿场",
+        "混合矿场": "Mixed Ore",
 
 
 
@@ -1171,21 +1175,23 @@ export default {
 
 
 
-        "空间锚点·废弃矿洞二层": "空间锚点·废弃矿洞二层",
-        "收容井-德尔塔": "收容井-德尔塔",
-        "电梯": "电梯",
-        "乖乖兔": "乖乖兔",
-        "食谱：黄油松茸": "食谱：黄油松茸",
-        "食谱：硬邦邦姜糖": "食谱：硬邦邦姜糖",
-        "食谱：蜜蛋弹弹乐": "食谱：蜜蛋弹弹乐",
-        "食谱：雪茸蛋炒饭": "食谱：雪茸蛋炒饭",
-        "食谱：水果派": "食谱：水果派",
-        "食谱：噼里啪啦南瓜汤": "食谱：噼里啪啦南瓜汤",
-        "食谱：炙热炖肉火锅": "食谱：炙热炖肉火锅",
-        "食谱：鲜肉咖喱饭": "食谱：鲜肉咖喱饭",
-        "食谱：砰砰爆米花": "食谱：砰砰爆米花",
-        "食谱：水果蛋糕": "食谱：水果蛋糕",
-        "食谱：炙热烈焰蛋挞": "食谱：炙热烈焰蛋挞",
+        "空间锚点·废弃矿洞二层": "Rift Anchor - Abandoned Mine Floor 2",
+        "收容井-德尔塔": "Securement Silo - Delta",
+        "电梯": "elevator",
+        "乖乖兔": "Fetch-A-Lot Bunny",
+        "食谱：黄油松茸": "Recipe: Butter Matsutake Mushrooms",
+        "食谱：硬邦邦姜糖": "Recipe: GingerDrop",
+        "食谱：蜜蛋弹弹乐": "Recipe: Ginger Poppers",
+        "食谱：雪茸蛋炒饭": "Recipe: Snow Mushroom Fried Rice",
+        "食谱：水果派": "Recipe: Mixed Fruit Pie",
+        "食谱：噼里啪啦南瓜汤": "Recipe: Sparkling Pumpkin Soup",
+        "食谱：炙热炖肉火锅": "Recipe: Hearty Meat Stew",
+        "食谱：鲜肉咖喱饭": "Recipe: Curry and Rice",
+        "食谱：砰砰爆米花": "Recipe: Popcorn",
+        "食谱：水果蛋糕": "Recipe: Fruit Cake",
+        "食谱：炙热烈焰蛋挞": "Recipe: Flaming Eggtart",
+        "食谱：麻辣兔丁罐头": "Recipe: Canned Spicy Rabbit Dices",
+        "食谱：清凉薄荷肉罐头": "Recipe: Canned Minty Meat",
 
         "宝箱怪位置待定": "宝箱怪位置待定",
         "气球异常：轻量化红点瞄具": "气球异常：轻量化红点瞄具",
@@ -1214,23 +1220,23 @@ export default {
         "气球异常：小型红外指示器": "气球异常：小型红外指示器",
         "气球异常：垂直握把": "气球异常：垂直握把",
         "松鼠异常：棕熊反射式瞄具": "松鼠异常：棕熊反射式瞄具",
-        "观景台": "观景台",
-        "气球异常": "气球异常",
-        "玩偶异常": "玩偶异常",
-        "冰块宝箱": "冰块宝箱",
-        "冷晶矿": "冷晶矿",
-        "冰晶矿": "冰晶矿",
-        "热岩矿": "热岩矿",
-        "寒冰瓜": "寒冰瓜",
-        "乌鸦蛋": "乌鸦蛋",
-        "极地椒 * 3": "极地椒 * 3",
-        "驯鹿": "驯鹿",
-        "野牛": "野牛",
-        "海豹": "海豹",
-        "母羊": "母羊",
-        "公羊": "公羊",
-        "北极狐": "北极狐",
-        "北极熊": "北极熊",
-        "熊": "熊"
+        "观景台": "Scenic Viewpoint",
+        "气球异常": "balloon anomaly",
+        "玩偶异常": "doll anomaly",
+        "冰块宝箱": "ice Chest",
+        "冷晶矿": "Cold Crystal Ore",
+        "冰晶矿": "Cold Crystal Ore",
+        "热岩矿": "Hot Rock Ore",
+        "寒冰瓜": "Ice Melon",
+        "乌鸦蛋": "Raven Egg",
+        "极地椒 * 3": "Polar Pepper * 3",
+        "驯鹿": "Reindeer",
+        "野牛": "Bison",
+        "海豹": "Seal",
+        "母羊": "Ewe",
+        "公羊": "Ram",
+        "北极狐": "Fox",
+        "北极熊": "Polar Bear",
+        "熊": "Bear"
     }
 }
