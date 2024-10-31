@@ -549,20 +549,20 @@ export default {
       
         // Rift Anchors - 位面锚 // 空间锚点 = Rift Anchor
         //Way of Winter - 雪国人生
-        "空间锚点·断桥": "Collapsed Bridge - Rift Anchor", //Way of Winter - 10/21/24
-        "空间锚点·“心愿奇境”": "Wishland West - Rift Anchor", //Way of Winter - 10/21/24         
-        "空间锚点·慕斯市食品厂": "Moose City Food Factory - Rift Anchor", //Way of Winter - 10/21/24
-        "空间锚点·慕斯市": "Moose City - Rift Anchor", //Way of Winter - 10/21/24
-        "空间锚点·搁浅滩涂": "Stranding Mudflats - Rift Anchor", //Way of Winter - 10/21/24
-        "空间锚点·烟袋度假区": "Tabcco Resort - Rift Anchor", //Way of Winter - 10/21/24
-        "空间锚点·悬船冰洞": "Dangling Vessel Cove - Rift Anchor", //Way of Winter - 10/21/24
-        "空间锚点·菲斯库尔港": "Fiskur Harbor - Rift Anchor", //Way of Winter - 10/21/24
-        "空间锚点·“母巢”收容保护区": "Hiverail Restricted Area - Rift Anchor", //Way of Winter - 10/21/24
-        "空间锚点·黑石要塞": "Blackstone Fortress - Rift Anchor", //Way of Winter - 10/21/24
-        "空间锚点·“大河”收容场": "“Great River“ Shelter Zone - Rift Anchor", //Way of Winter - 10/21/24
-        "空间锚点·冻火湾": "Frost Forge - Rift Anchor", //Way of Winter - 10/21/24
-        "空间锚点·“黑域”之门": "Entrance of the Zone of Haze - Rift Anchor", //Way of Winter - 10/21/24
-        "空间锚点·致命信号": " Fatal Signal - Rift Anchor", //Way of Winter - 10/21/24
+        "空间锚点·断桥": "Rift Anchor - Collapsed Bridge", //Way of Winter - 10/21/24
+        "空间锚点·“心愿奇境”": "Rift Anchor - Wishland - West", //Way of Winter - 10/21/24         
+        "空间锚点·慕斯市食品厂": "Rift Anchor - Mousseville Sweet Factory", //Way of Winter - 10/21/24
+        "空间锚点·慕斯市": "Rift Anchor - Moousseville", //Way of Winter - 10/21/24
+        "空间锚点·搁浅滩涂": "Rift Anchor - Stranded Marsh", //Way of Winter - 10/21/24
+        "空间锚点·烟袋度假区": "Rift Anchor - Tabacco Resort", //Way of Winter - 10/21/24
+        "空间锚点·悬船冰洞": "Rift Anchor - Dangling Vessel Cove", //Way of Winter - 10/21/24
+        "空间锚点·菲斯库尔港": "Rift Anchor - Fiskur Harbor", //Way of Winter - 10/21/24
+        "空间锚点·“母巢”收容保护区": "Rift Anchor - Hiverail Restricted Area", //Way of Winter - 10/21/24
+        "空间锚点·黑石要塞": "Rift Anchor - Obsidian Camp", //Way of Winter - 10/21/24
+        "空间锚点·“大河”收容场": "Rift Anchor - Taiga Containment Center", //Way of Winter - 10/21/24
+        "空间锚点·冻火湾": "Rift Anchor - Frost Forge", //Way of Winter - 10/21/24
+        "空间锚点·“黑域”之门": "Rift Anchor - Entrance of the Zone of Haze", //Way of Winter - 10/21/24
+        "空间锚点·致命信号": "Rift Anchor - Fatal Signal", //Way of Winter - 10/21/24
 
         // has no individual names yet in chinese
         // Mysterious Chests - 神秘宝藏
