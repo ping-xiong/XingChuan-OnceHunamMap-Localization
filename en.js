@@ -358,6 +358,7 @@ export default {
         "熊栖雪场": "Bear's Den", //Way of Winter - 10/19/24
         "鲸骨乡": "Whale Bone", //Way of Winter - 10/19/24
         "冰屋营地": "Ice House Camp", //Way of Winter - 10/19/24
+        "不落号坠落点": "Unfallen Crash Site",
 
 
         // Labs - 研究所
@@ -580,6 +581,15 @@ export default {
         "空间锚点·冻火湾": "Rift Anchor - Frost Forge", //Way of Winter - 10/21/24
         "空间锚点·“黑域”之门": "Rift Anchor - Entrance of the Zone of Haze", //Way of Winter - 10/21/24
         "空间锚点·致命信号": "Rift Anchor - Fatal Signal", //Way of Winter - 10/21/24
+        "空间锚点-蛇腹洞穴": "Rift Anchor - SunShroud Cave",
+        "空间锚点·蛇尾滑索营地": "Rift Anchor - Serpent's Tail Camp",
+        "空间锚点-燃尽之地": "Rift Anchor - Charred WasteLand",
+        "空间锚点-废弃提炼厂": "Rift Anchor - Abandoned Refinery",
+        "空间锚点-火喉地下城": "Rift Anchor - Fire Throat Fortress",
+        "空间锚点·灰落市1": "Rift Anchor - AshenTon 1",
+        "空间锚点·灰落市2": "Rift Anchor - AshenTon 2",
+        "空间锚点-炎神研究所": "Rift Anchor - Fire God Research Center",
+        "空间锚点-温泉民宿": "Rift Anchor - Hot Spring Inn",
 
         // has no individual names yet in chinese
         // Mysterious Chests - 神秘宝藏
