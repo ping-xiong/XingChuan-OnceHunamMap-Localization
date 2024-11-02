@@ -723,7 +723,6 @@ export default {
         "诡谲画作: 前向消焰器": "Forward Flash Hider (needs Mysterious Painting)",
         // Attachment Dupes with Spelling differences
         "战斗侦察瞄具": "Recon Combat Optic",
-        "眼镜蛇握把": "Cobra Grip",
         "反射式瞄具·黑色": "Reflex Sight",
         "角形握把": "Triangle Grip",
         "霰弹枪式制动器": "Shotgun Brake",
@@ -1150,9 +1149,6 @@ export default {
         "私有收容仓": "Private Securement Unit",
         "观景点": "View Point",
         "出生点": "Spawn Point",
-        "私有收容仓": "Private Securement Unit",
-
-        "混合矿场": "Mixed Ore",
 
 
 
