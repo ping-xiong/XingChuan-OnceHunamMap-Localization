@@ -327,7 +327,7 @@ export default {
         "烟袋群岛传送塔": "Pipe Island Teleportation Tower", //Way of Winter - 10/21/24
         "蛇眼山口传送塔": "SnakeEye Pass Teleportation Tower",
         "蛇腹传送塔": "SnakeBelly Teleportation Tower",
-        "蛇尾传送塔": "",
+        "蛇尾传送塔": "SnakeTail Teleportation Tower",
         "熟土区传送塔": "Ripe Land Teleportation Tower",
         "火喉北部传送塔": "Fire Throat North Teleportation Tower",
         "火喉东部传送塔": "Fire Throat East Teleportation Tower",
