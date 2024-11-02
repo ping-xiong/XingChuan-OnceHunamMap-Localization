@@ -325,6 +325,18 @@ export default {
         "雪崖传送塔": "Snow Cliffs Teleportation Tower", //Way of Winter - 10/21/24
         "冻火西部传送塔": "Frost West Teleportation Tower", //Way of Winter - 10/21/24
         "烟袋群岛传送塔": "Pipe Island Teleportation Tower", //Way of Winter - 10/21/24
+        "蛇眼山口传送塔": "SnakeEye Pass Teleportation Tower",
+        "蛇腹传送塔": "SnakeBelly Teleportation Tower",
+        "蛇尾传送塔": "",
+        "熟土区传送塔": "Ripe Land Teleportation Tower",
+        "火喉北部传送塔": "Fire Throat North Teleportation Tower",
+        "火喉东部传送塔": "Fire Throat East Teleportation Tower",
+        "火喉飞升传送塔": "Fire Throat Rise Teleportation Tower",
+        "火喉根基传送塔": "Fire Throat Base Teleportation Tower",
+        "灰落传送塔": "AshenTon Teleportation Tower",
+        "寂火传送塔": "SilentFire Teleportation Tower",
+        "灼风传送塔": "BlazeWind Teleportation Tower",
+        "硫磺池传送塔": "Sulfur Pool Teleportation Tower",
 
         // Monoliths - 巨楔
         "贪欲巨楔": "Monolith of Greed",
