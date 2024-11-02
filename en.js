@@ -223,8 +223,13 @@ export default {
         "限时事件": "Red Event",
         "灭绝者": "Chaos Weaver",
         "灭绝者(二阶段)": "Chaos Weaver(Stage 2)",
+        "灭绝者(三阶段)": "Chaos Weaver(Stage 3)",
+        "3阶段灭绝者": "Chaos Weaver(Stage 3)",//非正常标识纠正
         "冰灭绝者(一阶段)": "Ice Chaos Weaver(Stage 1)",
         "冰灭绝者(二阶段)": "Ice Chaos Weaver(Stage 2)",
+        "冰灭绝者(三阶段)": "Ice Chaos Weaver(Stage 3)",
+        "火灭绝者(二阶段)": "Fire Chaos Weaver(Stage 2)",
+        "火灭绝者(三阶段)": "Fire Chaos Weaver(Stage 3)",
         // Collection
         "武器配件": "Attachment", // "Weapon Attachments" is too long and breaks the UI
         "食谱": "Recipe",
