@@ -223,8 +223,13 @@ export default {
         "限时事件": "Red Event",
         "灭绝者": "Chaos Weaver",
         "灭绝者(二阶段)": "Chaos Weaver(Stage 2)",
+        "灭绝者(三阶段)": "Chaos Weaver(Stage 3)",
+        "3阶段灭绝者": "Chaos Weaver(Stage 3)",//非正常标识纠正
         "冰灭绝者(一阶段)": "Ice Chaos Weaver(Stage 1)",
         "冰灭绝者(二阶段)": "Ice Chaos Weaver(Stage 2)",
+        "冰灭绝者(三阶段)": "Ice Chaos Weaver(Stage 3)",
+        "火灭绝者(二阶段)": "Fire Chaos Weaver(Stage 2)",
+        "火灭绝者(三阶段)": "Fire Chaos Weaver(Stage 3)",
         // Collection
         "武器配件": "Attachment", // "Weapon Attachments" is too long and breaks the UI
         "食谱": "Recipe",
@@ -320,6 +325,18 @@ export default {
         "雪崖传送塔": "Snow Cliffs Teleportation Tower", //Way of Winter - 10/21/24
         "冻火西部传送塔": "Frost West Teleportation Tower", //Way of Winter - 10/21/24
         "烟袋群岛传送塔": "Pipe Island Teleportation Tower", //Way of Winter - 10/21/24
+        "蛇眼山口传送塔": "SnakeEye Pass Teleportation Tower",
+        "蛇腹传送塔": "SnakeBelly Teleportation Tower",
+        "蛇尾传送塔": "SnakeTail Teleportation Tower",
+        "熟土区传送塔": "Ripe Land Teleportation Tower",
+        "火喉北部传送塔": "Fire Throat North Teleportation Tower",
+        "火喉东部传送塔": "Fire Throat East Teleportation Tower",
+        "火喉飞升传送塔": "Fire Throat Rise Teleportation Tower",
+        "火喉根基传送塔": "Fire Throat Base Teleportation Tower",
+        "灰落传送塔": "AshenTon Teleportation Tower",
+        "寂火传送塔": "SilentFire Teleportation Tower",
+        "灼风传送塔": "BlazeWind Teleportation Tower",
+        "硫磺池传送塔": "Sulfur Pool Teleportation Tower",
 
         // Monoliths - 巨楔
         "贪欲巨楔": "Monolith of Greed",
@@ -341,6 +358,7 @@ export default {
         "熊栖雪场": "Bear's Den", //Way of Winter - 10/19/24
         "鲸骨乡": "Whale Bone", //Way of Winter - 10/19/24
         "冰屋营地": "Ice House Camp", //Way of Winter - 10/19/24
+        "不落号坠落点": "Unfallen Crash Site",
 
 
         // Labs - 研究所
@@ -563,6 +581,15 @@ export default {
         "空间锚点·冻火湾": "Rift Anchor - Frost Forge", //Way of Winter - 10/21/24
         "空间锚点·“黑域”之门": "Rift Anchor - Entrance of the Zone of Haze", //Way of Winter - 10/21/24
         "空间锚点·致命信号": "Rift Anchor - Fatal Signal", //Way of Winter - 10/21/24
+        "空间锚点-蛇腹洞穴": "Rift Anchor - SunShroud Cave",
+        "空间锚点·蛇尾滑索营地": "Rift Anchor - Serpent's Tail Camp",
+        "空间锚点-燃尽之地": "Rift Anchor - Charred WasteLand",
+        "空间锚点-废弃提炼厂": "Rift Anchor - Abandoned Refinery",
+        "空间锚点-火喉地下城": "Rift Anchor - Fire Throat Fortress",
+        "空间锚点·灰落市1": "Rift Anchor - AshenTon 1",
+        "空间锚点·灰落市2": "Rift Anchor - AshenTon 2",
+        "空间锚点-炎神研究所": "Rift Anchor - Fire God Research Center",
+        "空间锚点-温泉民宿": "Rift Anchor - Hot Spring Inn",
 
         // has no individual names yet in chinese
         // Mysterious Chests - 神秘宝藏
@@ -706,7 +733,6 @@ export default {
         "诡谲画作: 前向消焰器": "Forward Flash Hider (needs Mysterious Painting)",
         // Attachment Dupes with Spelling differences
         "战斗侦察瞄具": "Recon Combat Optic",
-        "眼镜蛇握把": "Cobra Grip",
         "反射式瞄具·黑色": "Reflex Sight",
         "角形握把": "Triangle Grip",
         "霰弹枪式制动器": "Shotgun Brake",
@@ -1133,9 +1159,6 @@ export default {
         "私有收容仓": "Private Securement Unit",
         "观景点": "View Point",
         "出生点": "Spawn Point",
-        "私有收容仓": "Private Securement Unit",
-
-        "混合矿场": "Mixed Ore",
 
 
 
