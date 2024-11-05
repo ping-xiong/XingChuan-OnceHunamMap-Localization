@@ -1157,9 +1157,39 @@ export default {
         "玩家": "Player",
 
         "私有收容仓": "Private Securement Unit",
-        "观景点": "View Point",
         "出生点": "Spawn Point",
-
+        //维纳峡湾
+        "观景点：雪崩巨楔": "ViewPoint: Avalanche Monolith",
+        "观景点：菲斯库尔港": "ViewPoint: Fiskur Harbor",
+        "观景点：熊栖雪场": "ViewPoint: Bear's Den",
+        "观景点：母巢": "ViewPoint: Hiverail",
+        "观景点：白崖黑域": "ViewPoint: White Cliff Black Sector",
+        "观景点：心愿奇境西园": "ViewPoint: Wish Land - West",
+        "观景点：荒原巨骨": "ViewPoint: Wasteland Skull",
+        "观景点：冻火湾": "ViewPoint: Forst Forge",
+        "观景点：巨岩": "ViewPoint: Boulder",
+        "观景点：鲸骨乡": "ViewPoint: Whalebone",
+        //玛瑙冻原
+        "观景点：“大河”收容场": "ViewPoint: TAIGA Containment Center",
+        "观景点：搁浅船只": "ViewPoint: Stranded Ship",
+        "观景点：慕斯市食品厂": "ViewPoint: Mousseville Sweet Factory",
+        "观景点：冻原巨楔": "ViewPoint: Tundra Monolith",
+        "观景点：慕斯市": "ViewPoint: Mousseville",
+        "观景点：心愿奇境东园": "ViewPoint: Wish Land Eastern Park",
+        "观景点：黑石要塞": "ViewPoint: Fort Obsidian",
+        "观景点：绚烂花海": "ViewPoint: Flower Fields",
+        "观景点：冰屋营地": "ViewPoint: Camp Igloo",
+        //余烬滩
+        "观景点：炎神实验室": "ViewPoint: Fire God Research Center",
+        "观景点：不落号坠落点": "ViewPoint: Ground Unfallen",
+        "观景点：收容井塔乌": "ViewPoint: Securement Silo Taurus",
+        "观景点：火喉下城": "ViewPoint: Fire Throat Fortress",
+        "观景点：炽尘巨楔": "ViewPoint: Emberdust Monolith",
+        "观景点：火喉圣域": "ViewPoint: Fire Throat Sanctum",
+        "观景点：月牙湖": "ViewPoint: Crescent Lake",
+        "观景点：灰落": "ViewPoint: Ashenton",
+        "观景点：影日洞穴": "ViewPoint: Sunshroud Cave",
+        "观景点：遗忘之地": "ViewPoint: Oblivion",
 
 
 
