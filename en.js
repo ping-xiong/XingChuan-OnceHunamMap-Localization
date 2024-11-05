@@ -337,6 +337,7 @@ export default {
         "寂火传送塔": "SilentFire Teleportation Tower",
         "灼风传送塔": "BlazeWind Teleportation Tower",
         "硫磺池传送塔": "Sulfur Pool Teleportation Tower",
+        "炽尘巨楔传送塔": "FireDust Teleportation Tower",
 
         // Monoliths - 巨楔
         "贪欲巨楔": "Monolith of Greed",
@@ -1282,6 +1283,7 @@ export default {
         "热岩矿": "Hot Rock Ore",
         "寒冰瓜": "Ice Melon",
         "乌鸦蛋": "Raven Egg",
+        "极地椒": "Polar Pepper",
         "极地椒 * 3": "Polar Pepper * 3",
         "驯鹿": "Reindeer",
         "野牛": "Bison",
