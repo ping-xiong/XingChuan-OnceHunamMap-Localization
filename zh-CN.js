@@ -20,7 +20,7 @@ export default {
         "quick_setting_fuel_loot": "摸油路线",
         "quick_setting_resource": "资源密集区",
         "quick_setting_bus_route": "怪物巴士路线",
-        "quick_setting_show_players": "显示玩家",
+        "quick_setting_show_players": "显示玩家(影响性能)",
         "quick_setting_pollution": "污染区",
         "quick_setting_popup_coordinate": "指针显示坐标",
         "area": "地点区域",
