@@ -206,13 +206,14 @@ export default {
         "收容井": "Securement Silo",
         "位面锚": "Rift Anchor",
         "空间锚点": "Rift Anchor",
+        "观景点": "View Point",
         // Treasures
         "神秘宝藏": "Mystical Crate", //Updated Name Ingame One
         "神秘宝箱": "Mystical Crate", //Updated Name Ingame One
         "武器箱": "Weapon Crate",
         "装备箱": "Gear Crate",
         "隐藏宝箱": "Hidden Crate",
-        "秘藏宝箱": "Hidden Crate",
+        "秘藏宝箱": "Hidden Horde Crate",
         "宝箱怪": "Morphic Crate",
         "储物箱": "Storage Crate",
         // Explore
@@ -224,12 +225,14 @@ export default {
         "灭绝者": "Chaos Weaver",
         "灭绝者(二阶段)": "Chaos Weaver(Stage 2)",
         "灭绝者(三阶段)": "Chaos Weaver(Stage 3)",
-        "3阶段灭绝者": "Chaos Weaver(Stage 3)",//非正常标识纠正
         "冰灭绝者(一阶段)": "Ice Chaos Weaver(Stage 1)",
         "冰灭绝者(二阶段)": "Ice Chaos Weaver(Stage 2)",
         "冰灭绝者(三阶段)": "Ice Chaos Weaver(Stage 3)",
+        "冰灭绝者(二/三阶段)": "Ice Chaos Weaver(Stage 2/3)",
+        "冰灭绝者(四阶段)": "Ice Chaos Weaver(Stage 4)",
         "火灭绝者(二阶段)": "Fire Chaos Weaver(Stage 2)",
         "火灭绝者(三阶段)": "Fire Chaos Weaver(Stage 3)",
+        "火灭绝者(四阶段)": "Fire Chaos Weaver(Stage 4)",
         // Collection
         "武器配件": "Attachment", // "Weapon Attachments" is too long and breaks the UI
         "食谱": "Recipe",
@@ -258,6 +261,9 @@ export default {
         "铁锈河": "Iron River",
         "孤狼荒原": "Red Sands",
         "黑心地带": "Blackheart",
+        "玛瑙冻原": "Onyx Tundra",
+        "维纳峡湾": "Vena Fjord",
+        "余烬滩": "Ember Strand",
         // Routes
         // No need to translate the fuel count number.
         "怪物巴士路线": "Monster Bus",
@@ -348,6 +354,7 @@ export default {
         //Way of Winter - 雪国人生
         "冻原巨楔": "Tundra Monolith", //Way of Winter - 10/19/24
         "雪崩巨楔": "Avalanche Monolith", //Way of Winter - 10/19/24
+        "炽尘巨楔": "Firedust Monolith",
         // Settlements - 主城
         "旅人营地": "Deadsville",
         "迈尔集市": "Meyer's Market",
@@ -564,8 +571,9 @@ export default {
         "收容井-暗狱": "Securement Silo EX1",
         "收容井-阿尔法": "Securement Silo - Alpha",
         "收容井-寒境": "Securement Silo - Psi",
-        "收容井-西塔": "Securement Silo - Theta", 
-      
+        "收容井-西塔": "Securement Silo - Theta",
+        "收容井·塔乌": "Securement Silo 08",
+
         // Rift Anchors - 位面锚 // 空间锚点 = Rift Anchor
         //Way of Winter - 雪国人生
         "空间锚点·断桥": "Rift Anchor - Collapsed Bridge", //Way of Winter - 10/21/24
@@ -586,11 +594,13 @@ export default {
         "空间锚点·蛇尾滑索营地": "Rift Anchor - Serpent's Tail Camp",
         "空间锚点·燃尽之地": "Rift Anchor - Charred WasteLand",
         "空间锚点·废弃提炼厂": "Rift Anchor - Abandoned Refinery",
-        "空间锚点·火喉地下城": "Rift Anchor - Fire Throat Fortress",
+        "空间锚点·火喉下城": "Rift Anchor - Fire Throat Fortress",
         "空间锚点·灰落市1": "Rift Anchor - AshenTon 1",
         "空间锚点·灰落市2": "Rift Anchor - AshenTon 2",
         "空间锚点·炎神研究所": "Rift Anchor - Fire God Research Center",
         "空间锚点·温泉民宿": "Rift Anchor - Hot Spring Inn",
+        "空间锚点·塔乌": "Rift Anchor - Securement Silo 08",
+
 
         // has no individual names yet in chinese
         // Mysterious Chests - 神秘宝藏
