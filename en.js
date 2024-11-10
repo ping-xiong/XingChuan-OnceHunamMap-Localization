@@ -54,7 +54,8 @@ export default {
         "input_resource_name": "Input name",
         "locate": "Locate",
         // Miscellaneous UI strings
-        "any_name": "currently only support Chinese",
+        "any_name": "Any Words",
+        "keyword": "Keyword",
         "locations": "Locations",
         "locate_point": "Click to center the Location",
         "input_item": "Please enter a Location Name",

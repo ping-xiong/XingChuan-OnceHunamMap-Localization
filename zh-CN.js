@@ -55,6 +55,7 @@ export default {
         "locate": "定位地图",
         // Miscellaneous UI strings
         "any_name": "任意名称",
+        "keyword": "关键词",
         "locations": "相关地点列表",
         "locate_point": "点击地点定位地图",
         "input_item": "请输入物品名称进行搜索",
