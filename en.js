@@ -214,7 +214,7 @@ export default {
         "武器箱": "Weapon Crate",
         "装备箱": "Gear Crate",
         "隐藏宝箱": "Hidden Crate",
-        "秘藏宝箱": "Hidden Horde Crate",
+        "秘藏宝箱": "Hidden Hoard Crate",
         "宝箱怪": "Morphic Crate",
         "储物箱": "Storage Crate",
         // Explore
@@ -230,10 +230,18 @@ export default {
         "冰灭绝者(二阶段)": "Ice Chaos Weaver(Stage 2)",
         "冰灭绝者(三阶段)": "Ice Chaos Weaver(Stage 3)",
         "冰灭绝者(二/三阶段)": "Ice Chaos Weaver(Stage 2/3)",
+        "冰灭绝者(一/四阶段)": "Ice Chaos Weaver(Stage 1/4)",
+        "冰灭绝者(二/四阶段)": "Ice Chaos Weaver(Stage 2/4)",
+        "冰灭绝者(三/四阶段)": "Ice Chaos Weaver(Stage 3/4)",
+        "冰灭绝者(二/三/四阶段)": "Ice Chaos Weaver(Stage 2/3/4)",
         "冰灭绝者(四阶段)": "Ice Chaos Weaver(Stage 4)",
         "火灭绝者(二阶段)": "Fire Chaos Weaver(Stage 2)",
         "火灭绝者(三阶段)": "Fire Chaos Weaver(Stage 3)",
         "火灭绝者(四阶段)": "Fire Chaos Weaver(Stage 4)",
+        "火灭绝者(一/四阶段)": "Fire Chaos Weaver(Stage 1/4)",
+        "火灭绝者(二/四阶段)": "Fire Chaos Weaver(Stage 2/4)",
+        "火灭绝者(三/四阶段)": "Fire Chaos Weaver(Stage 3/4)",
+        "火灭绝者(二/三/四阶段)": "Fire Chaos Weaver(Stage 2/3/4)",
         // Collection
         "武器配件": "Attachment", // "Weapon Attachments" is too long and breaks the UI
         "食谱": "Recipe",
