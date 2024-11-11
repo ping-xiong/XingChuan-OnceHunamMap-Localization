@@ -23,6 +23,7 @@ export default {
         "quick_setting_show_players": "显示玩家(影响性能)",
         "quick_setting_pollution": "污染区",
         "quick_setting_popup_coordinate": "指针显示坐标",
+        "quick_setting_disaster_area": "灭绝者受灾范围",
         "area": "地点区域",
         "treasure": "宝箱秘藏",
         "monster": "事件怪物",

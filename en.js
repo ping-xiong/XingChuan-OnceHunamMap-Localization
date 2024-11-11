@@ -23,6 +23,7 @@ export default {
         "quick_setting_show_players": "Show Players",
         "quick_setting_pollution": "Pollution",
         "quick_setting_popup_coordinate": "Coordinate Follow Pointer",
+        "quick_setting_disaster_area": "Chaos Weaver Disaster Area",
         "area": "Areas",
         "treasure": "Treasures",
         "monster": "Explore",
@@ -271,6 +272,10 @@ export default {
         "便携混合燃油": "Portable Mixed Fuel",
         // Areas
         "污染区": "Contaminated Area",
+        "污染值": "Pollution Value",
+        "建筑无法幸存": "Building cannot survive",
+        "建筑会受损": "Building will be damaged",
+        "被发现范围": "Alert Range",
         // Teleporters - 传送塔
         "猎犬岛传送塔": "Teleportation Tower",
         "望岛镇传送塔": "Teleportation Tower",
