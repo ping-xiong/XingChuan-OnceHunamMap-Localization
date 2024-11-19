@@ -53,7 +53,8 @@ export default {
         "input_resource_name": "검색어를 입력하세요",
         "locate": "위치",
         // Miscellaneous UI strings
-        "any_name": "이 기능은 현재 중국어만 지원합니다",
+        "any_name": "키워드",
+        "keyword": "키워드",
         "locations": "Locations",
         "locate_point": "Click to center the Location",
         "input_item": "Please enter a Location Name",
