@@ -7,7 +7,12 @@ export default {
         "move_left": "",
         "move_right": "",
         "edit": "Edit",
-        "quit": "Quit"
+        "quit": "Quit",
+        "apply": "Yes", //确认
+        "cancel": "No", //取消
+    },
+    "edit": {
+        "mode_switch": "Enter/exit edit mode?", //是否进入/退出编辑模式
     },
     "tabs": {
         "by_category": "Category",

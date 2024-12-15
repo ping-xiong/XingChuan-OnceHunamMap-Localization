@@ -7,7 +7,12 @@ export default {
         "move_left": "左移",
         "move_right": "右移",
         "edit": "编辑",
-        "quit": "退出"
+        "quit": "退出",
+        "apply": "确认", //确认
+        "cancel": "取消", //取消
+    },
+    "edit": {
+        "mode_switch": "是否进入/退出编辑模式？", //是否进入/退出编辑模式
     },
     "tabs": {
         "by_category": "分类",
@@ -127,7 +132,7 @@ export default {
         "backup_button": "备份数据",
         "restore_button": "恢复数据",
         "cloud_storage": "云端同步",
-        "clear_all_data": "清空所有数据",
+        "clear_all_data": "清空标记数据",
         "restore_hint": "提示：该操作会将本地数据与导入数据合并，如果登录了还会同步数据到云端，是否继续？",
         "delete_hint": "警告: 该操作会删除所有数据，如果已经登录还会清除云端数据，是否继续？",
         "wechat_login": "公众号凭证登录",
