@@ -80,7 +80,7 @@ export default {
         "roof": "( Крыша )",
         "at_floor": "( Пол {floor} )",
         "underground": "( Этаж {floor} Подземный )",
-        "level": "( Lv. {уровень} )"
+        "level": "( Lv. {level} )"
     },
     "settings": {
         "has_video": "Видеомаркер",
@@ -140,7 +140,7 @@ export default {
         "delete_markder": "Удалить маркер",
         "undelete": "Отменить удаление",
         "delete_only": "Только удалить",
-        "hide_category": "Скрыть {категорию}",
+        "hide_category": "Скрыть {category}",
         "no_update_time": "Время обновления не указано",
         "rewards": "Награды",
         "close": "Закрыть",

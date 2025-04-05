@@ -86,6 +86,12 @@ export default {
         "select_scenario": "Scenario",
         "show_unreviewed_markers": "Unreviewed Markers",
         "show_unreviewed_areas": "Unreviewed Areas",
+        "地点区域": "Locations",
+        "宝箱秘藏": "Secrets",
+        "事件怪物": "Monsters",
+        "收集要素": "Collections",
+        "异象轮盘": "Lunar Oracle",
+        "地图提示": "Tips",
     },
     "floor_text": {
         "roof": "( Roof )",
@@ -201,6 +207,18 @@ export default {
         "help_1": "Didn't find the language you were looking for?",
         "help_2": "Click here to help improve translations.",
         "default": "Default"
+    },
+    "path_planning": {
+        "path_planning": "Path Planning",
+        "start": "Start Point",
+        "end": "End Point",
+        "select_start": "Select Start Point",
+        "select_end": "Select End Point",
+        "tips": "Tip: Right click on the map to quickly set the points",
+        "clear": "Clear Path",
+        "submit": "Query Path",
+        "cancel": "Clear",
+        "placeholder": "Select on the map"
     },
     "categories": {
         // Areas
@@ -1232,7 +1250,6 @@ export default {
 
 
 
-   
 
 
 
@@ -1241,8 +1258,9 @@ export default {
 
 
 
- //Way of Winter - 10        "荒废农庄": "",/21/24
- 
+
+        //Way of Winter - 10        "荒废农庄": "",/21/24
+
 
 
 
@@ -1321,6 +1339,30 @@ export default {
         "公羊": "Ram",
         "北极狐": "Fox",
         "北极熊": "Polar Bear",
-        "熊": "Bear"
+        "熊": "Bear",
+
+
+        // 2025-04-04
+        "预兆宝箱": "Lunar Oracle Crates",
+        "代顿检测点传送塔": "代顿检测点传送塔",
+        "内海传送塔": "内海传送塔",
+        "金银花*8": "Honeysuckle*8",
+        "上位者的影响使星尘污染浓度上升": "Polluted Area",
+        "这里的星尘污染浓度似乎很高": "Polluted Area",
+        "黑湖中不断溢出星尘污染": "Polluted Area",
+        "矿井内似乎不断溢出星尘污染": "Polluted Area",
+        "溢出的污染不断侵蚀着这片土地": "Polluted Area",
+        "狂信者的祝祷召唤出肆虐的污染": "Polluted Area",
+        "源质挥发使星尘污染浓度上升": "Polluted Area",
+        "山壁内源源不断渗出星尘污染": "Polluted Area",
+        "鳄龟蛋": "Snapping Turtle Eggs",
+        "PvE-无尽长梦": "PvE-Endless Dream", 
+        "PvP-祸乱之种": "PvP-祸乱之种", 
+        "代号：异常物": "代号：异常物", 
+        "贸易区": "Player Market", 
+        "月之幽影": "月之幽影", 
+        "月兆精英怪": "月兆精英怪", 
+        "豹子": "Leopard", 
+        "龙血树": "Dragon Blood Tree",
     }
 }

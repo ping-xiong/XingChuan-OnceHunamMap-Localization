@@ -204,6 +204,18 @@ export default {
         "help_2": "点击这里帮助我们翻译",
         "default": "默认"
     },
+    "path_planning": {
+        "path_planning": "路径规划",
+        "start": "起点",
+        "end": "终点",
+        "select_start": "选择起点",
+        "select_end": "选择终点",
+        "tips": "提示：在地图上右键可以快速设置起始点",
+        "clear": "清空规划",
+        "submit": "规划路径",
+        "cancel": "取消选择",
+        "placeholder": "点击按钮在地图上选点"
+    },
     "categories": {
         // The key name will be the Chinese name when Chinese translation is missing.
     }
