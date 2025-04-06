@@ -1364,5 +1364,6 @@ export default {
         "月兆精英怪": "月兆精英怪", 
         "豹子": "Leopard", 
         "龙血树": "Dragon Blood Tree",
+        "古老者的试炼": "The Ancient One Trial"
     }
 }
