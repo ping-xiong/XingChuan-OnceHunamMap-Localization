@@ -90,7 +90,7 @@ export default {
         "宝箱秘藏": "Secrets",
         "事件怪物": "Monsters",
         "收集要素": "Collections",
-        "异象轮盘": "Lunar Oracle",
+        "异象轮盘": "Visional Wheel",
         "地图提示": "Tips",
     },
     "floor_text": {
