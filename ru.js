@@ -967,5 +967,7 @@ export default {
         "PvP-分歧之路": "PvP-Evolution's Call",
         // map
         "玩家": "Player"
+        // 2025/05/26
+        "内海传送塔": "Башня телепортации Внутреннее море"
     }
 }
