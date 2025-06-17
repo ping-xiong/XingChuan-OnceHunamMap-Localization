@@ -10,6 +10,7 @@ export default {
         "quit": "退出",
         "apply": "确认", //确认
         "cancel": "取消", //取消
+        "heatmap": "资源热图"
     },
     "edit": {
         "mode_switch": "是否进入/退出编辑模式？", //是否进入/退出编辑模式
@@ -215,6 +216,11 @@ export default {
         "submit": "规划路径",
         "cancel": "取消选择",
         "placeholder": "点击按钮在地图上选点"
+    },
+    "heatmap": {
+        "no_data": "暂无数据",
+        "hint": "热图颜色越深, 资源越密集",
+        "clear": "清空热图"
     },
     "categories": {
         // The key name will be the Chinese name when Chinese translation is missing.

@@ -10,6 +10,7 @@ export default {
         "quit": "Quit",
         "apply": "Yes", //确认
         "cancel": "No", //取消
+        "heatmap": "Resource Heatmap"
     },
     "edit": {
         "mode_switch": "Enter/exit edit mode?", //是否进入/退出编辑模式
@@ -221,6 +222,11 @@ export default {
         "submit": "Query Path",
         "cancel": "Clear",
         "placeholder": "Select on the map"
+    },
+    "heatmap": {
+        "no_data": "No Data",
+        "hint": "The darker the heat map color, the more resources",
+        "clear": "Clear Heatmap"
     },
     "categories": {
         // Areas
