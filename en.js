@@ -1393,5 +1393,10 @@ export default {
         "野生工艺台": "Supplies Workbench",
         "野生车辆": "Vehicle Ruins",
         "野生商人": "Merchant",
+        "矿石": "Minerals",
+        "植物": "Plants",
+        "动物": "Animals",
+        "蔬菜": "Vegetables",
+        "草药": "Herbs"
     }
 }
