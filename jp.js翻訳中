@@ -385,21 +385,21 @@ export default {
         "炽尘巨楔传送塔": "FireDust Teleportation Tower",
 
         // Monoliths - 巨楔
-        "贪欲巨楔": "Monolith of Greed",
-        "盖亚巨楔": "Gaia Cliff Monolith",
-        "黯梦巨楔": "Mirage Monolith",
-        "尖牙巨楔": "Monolith of Thirst",
-        "遗忘巨楔": "Forsaken Monolith",
+        "モノリス・グリード": "Monolith of Greed",
+        "モノリス・ガイア": "Gaia Cliff Monolith",
+        "モノリス・ミラージュ": "Mirage Monolith",
+        "モノリス・ファング": "Monolith of Thirst",
+        "モノリス・オブリビオン": "Forsaken Monolith",
         //Way of Winter - 雪国人生
         "冻原巨楔": "Tundra Monolith", //Way of Winter - 10/19/24
         "雪崩巨楔": "Avalanche Monolith", //Way of Winter - 10/19/24
         "炽尘巨楔": "Firedust Monolith",
         // Settlements - 主城
-        "旅人营地": "Deadsville",
-        "迈尔集市": "Meyer's Market",
-        "秽水营地": "Greywater Camp",
-        "深草旅店": "Tall Grass Inn",
-        "黑原镇": "Blackfell",
+        "デッドヴィル": "Deadsville",
+        "マイヤー市場": "Meyer's Market",
+        "グレイトウォーターキャンプ": "Greywater Camp",
+        "トールグラス": "Tall Grass Inn",
+        "ブラックフェルタウン": "Blackfell",
         //Way of Winter - 雪国人生
         "遗忘之地": "Oblivion", //Way of Winter - 10/19/24
         "熊栖雪场": "Bear's Den", //Way of Winter - 10/19/24
@@ -409,7 +409,7 @@ export default {
 
 
         // Labs - 研究所
-        "生命进化研究所": "HP Evolution Institute",
+        "LEA研究所": "HP Evolution Institute",
         "”黑域“之门": "Entrance of the Zone of Haze", //Way of Winter - 10/21/24
 
         // Towns - 大型资源点
