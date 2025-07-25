@@ -1,39 +1,38 @@
 export default {
     "buttons": {
-        "filter": "フィルター",
-        "select_all": "すべて選ぶ",
-        "deselect_all": "すべて外す",
-        "close": "閉じる",
-        "move_left": "左へ",
-        "move_right": "右へ",
-        "edit": "編集",
+        "filter": "篩選標記",
+        "select_all": "全選",
+        "deselect_all": "全不選",
+        "close": "關閉",
+        "move_left": "左移",
+        "move_right": "右移",
+        "edit": "编辑",
         "quit": "退出",
-        "apply": "確認", //確認
-        "cancel": "取り消し", //取り消し
-        "heatmap": "資源マップ"
+        "apply": "确认", //确认
+        "cancel": "取消", //取消
     },
     "edit": {
-        "mode_switch": "編集モードに入りますか/退出しますか？", //編集モードに入りますか/退出しますか
+        "mode_switch": "是否进入/退出编辑模式？", //是否进入/退出编辑模式
     },
     "tabs": {
         "by_category": "分類",
         "by_item": "物品",
-        "by_search": "検索",
+        "by_search": "搜索",
         "resource_list": "資源",
         "setting": "設置",
-        "user_data": "ユーザーデータ",
-        "quick_setting": "クイックセッティング",
-        "quick_setting_fuel_loot": "燃料ルート",
-        "quick_setting_resource": "資源密集エリア",
-        "quick_setting_bus_route": "ワンダラー（バス）ルート",
-        "quick_setting_show_players": "ショープレイヤー（性能に影響を与えます）",
-        "quick_setting_pollution": "汚染エリア",
-        "quick_setting_popup_coordinate": "座標表示",
-        "quick_setting_disaster_area": "ディザスターエリア",
+        "user_data": "數據管理",
+        "quick_setting": "快捷設置",
+        "quick_setting_fuel_loot": "摸油路線",
+        "quick_setting_resource": "資源密集區",
+        "quick_setting_bus_route": "怪物巴士路線",
+        "quick_setting_show_players": "顯示玩家",
+        "quick_setting_pollution": "汙染區",
+        "quick_setting_popup_coordinate": "指針顯示坐標",
+        "quick_setting_disaster_area": "滅絕者受災範圍",
         "area": "エリア",
         "treasure": "宝箱",
         "monster": "モンスター",
-        "collection": "収集要素",
+        "collection": "收集要素",
         "hint": "ヒント",
         "logged": "登録済み",
         "guest": "未登録",
