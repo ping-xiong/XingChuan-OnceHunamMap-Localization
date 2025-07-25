@@ -224,7 +224,7 @@ export default {
     },
     "categories": {
         // Areas
-        "Teleporter": "テレポートタワー",
+        "传送塔": "テレポートタワー",
         "Monolith": "モノリス",
         "Settlement": "集落",
         "Lab": "研究所",
