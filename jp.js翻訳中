@@ -235,7 +235,7 @@ export default {
         "Rift Anchor": "次元界アンカー",
         "View Point": "ビューポイント",
         // Treasures
-        "謎の宝箱": "Mystical Crate", //Updated Name Ingame One
+        "Mystical Crate": "謎の宝箱", //Updated Name Ingame One
         "謎の宝箱": "Mystical Crate", //Updated Name Ingame One
         "武器箱": "Weapon Crate",
         "装備箱": "Gear Crate",
