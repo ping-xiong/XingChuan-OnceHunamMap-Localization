@@ -218,22 +218,22 @@ export default {
         "placeholder": "マークを押してポイントを選択"
     },
     "heatmap": {
-        "no_data": "No Data",
-        "hint": "The darker the heat map color, the more resources",
-        "clear": "Clear Heatmap"
+        "no_data": "データなし",
+        "hint": "色が濃ければ濃いほど資源が密集しています",
+        "clear": "ヒートマップクリア"
     },
     "categories": {
         // Areas
-        "テレポートタワー": "Teleporter",
-        "モノリス": "Monolith",
-        "集落": "Settlement",
-        "研究場": "Lab",
-        "タウン": "Town",
-        "ビレッジ": "Village",
-        "収容サイロ": "Securement Silo",
-        "次元界アンカー": "Rift Anchor",
-        "次元界アンカー": "Rift Anchor",
-        "ビューポイント": "View Point",
+        "Teleporter": "テレポートタワー",
+        "Monolith": "モノリス",
+        "Settlement": "集落",
+        "Lab": "研究所",
+        "Town": "タウン",
+        "Village": "ビレッジ",
+        "Securement Silo": "収容サイロ",
+        "Rift Anchor": "次元界アンカー",
+        "Rift Anchor": "次元界アンカー",
+        "View Point": "ビューポイント",
         // Treasures
         "謎の宝箱": "Mystical Crate", //Updated Name Ingame One
         "謎の宝箱": "Mystical Crate", //Updated Name Ingame One
