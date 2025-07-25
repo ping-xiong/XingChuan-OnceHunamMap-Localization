@@ -218,9 +218,9 @@ export default {
         "placeholder": "マークを押してポイントを選択"
     },
     "heatmap": {
-        "no_data": "データなし",
-        "hint": "サーマルが濃ければ濃いほど資源が密集してます",
-        "clear": "クリア"
+        "no_data": "No Data",
+        "hint": "The darker the heat map color, the more resources",
+        "clear": "Clear Heatmap"
     },
     "categories": {
         // Areas
