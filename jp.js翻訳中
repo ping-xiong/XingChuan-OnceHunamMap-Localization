@@ -86,6 +86,12 @@ export default {
         "select_scenario": "シナリオ",
         "show_unreviewed_markers": "審査中のマークを表示",
         "show_unreviewed_areas": "審査中のエリア表示",
+        "地点区域": "エリア",
+        "宝箱秘藏": "宝箱",
+        "事件怪物": "モンスター・イベント",
+        "收集要素": "収集要素",
+        "异象轮盘": "ルーレット",
+        "地图提示": "ヒント",
     },
     "floor_text": {
         "roof": "( 屋上 )",
