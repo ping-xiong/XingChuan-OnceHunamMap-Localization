@@ -1,7 +1,7 @@
 export default {
     "buttons": {
         "filter": "フィルター",
-        "select_all": "すべて選ぶ",1
+        "select_all": "すべて選ぶ",
         "deselect_all": "すべて外す",
         "close": "閉じる",
         "move_left": "左へ",
