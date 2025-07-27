@@ -151,7 +151,6 @@ export default {
         "data_is_syncing": "データ同期中",
         "last_syncing_time": "前回の同期：",
         "logout": "ログアウト",
-
     },
     "marker_dialog": {
         "no_marker_img": "マークなし",
