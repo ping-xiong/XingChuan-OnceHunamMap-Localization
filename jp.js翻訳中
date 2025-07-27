@@ -938,9 +938,9 @@ export default {
         "遗留财产": "遺留財產",
         "悲伤画像": "悲傷畫像",
         //"罗塞塔保险箱": "", //Rosetta Safe?
-        "密码：9274": "密碼: 9274", //Really a Side Quest?
-        "秘密配方": "秘密配方", //Really a Side Quest?
-        // Merchant - 商人
+        "密码：9274": "パスワード: 9274", //Really a Side Quest?
+        "秘密配方": "秘密レシピ", //Really a Side Quest?
+        // Merchant - 商人+
         "韦伯": "韋伯",
         "赵金潭": "趙金潭",
         //"": "Jonathan",
@@ -1008,8 +1008,10 @@ export default {
         "松鼠": "リス",
         "亚口鱼": "亞口魚",
         // scenario
-        "PvE-白銀の荒野": "PvE-マニブス",
-        "PvP-分かれ道": "PvP-逆位戦争",
+        "PvE-天空之触": "PvE-マニブス",
+        "PvP-分歧之路": "PvP-分かれ道",
+        "PvP-逆位战争": "PvP-逆位戦争", // 10/19/24
+        "PvE-雪国人生": "PvE-白銀の荒野", // 10/19/24
         // map
         "玩家": "プレイヤー"
     }
