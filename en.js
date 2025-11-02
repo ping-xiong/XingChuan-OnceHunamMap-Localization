@@ -216,7 +216,7 @@ export default {
     current: "Current",
     available: "Available",
     coming: "Coming",
-    scenarios: "Scenarios",
+    scenarios: "Maps",
   },
   languages: {
     dialog_title: "Select Language",
