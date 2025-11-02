@@ -82,7 +82,7 @@ export default {
         "daigan": "代肝微信公众号搜索： OU俱乐部",
         "login_warring": "请先输入公众号回复的内容才能进行登录",
         "delete_all": "全删",
-        "resume_all": "恢复",  
+        "resume_all": "恢复",
         "exit_management_mode": "退出管理模式",
         "select_scenario": "剧本地图",
         "show_unreviewed_markers": "显示审核中的标记",
@@ -183,7 +183,9 @@ export default {
         "click_to_copy": "点击复制游戏坐标",
         "copied_successfully": "复制成功",
         "common_hint": "通用提示",
-        "contributors": "贡献者"
+        "contributors": "贡献者",
+        "batch_import": "批量导入",
+        "navigation_settings": "导航设置",
     },
     "donate": {
         "payment": "请使用微信扫码",
