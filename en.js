@@ -98,6 +98,8 @@ export default {
     地图提示: "Tips",
     无尽长梦: "Endless Dream",
     "七日世界：禁区": "OnceHuman: RaidZone",
+    非正常收容: "Deviation: Survive",
+    乐园岛: "Paradise Island"
   },
   floor_text: {
     roof: "( Roof )",
