@@ -87,6 +87,8 @@ export default {
         "select_scenario": "剧本地图",
         "show_unreviewed_markers": "显示审核中的标记",
         "show_unreviewed_areas": "显示审核中的区域",
+        "tool_box": "工具箱",
+        "about_website": "关于网站"
     },
     "floor_text": {
         "roof": "( 在楼顶 )",

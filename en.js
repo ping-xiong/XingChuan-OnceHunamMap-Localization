@@ -99,7 +99,10 @@ export default {
     无尽长梦: "Endless Dream",
     "七日世界：禁区": "OnceHuman: RaidZone",
     非正常收容: "Deviation: Survive",
-    乐园岛: "Paradise Island"
+    乐园岛: "Paradise Island",
+    污染区: "Pollution Zones",
+    tool_box: "Toolbox",
+    about_website: "About"
   },
   floor_text: {
     roof: "( Roof )",
@@ -1493,10 +1496,27 @@ export default {
     三角原传送塔: "Teleportation Tower",
     油田北部传送塔: "Teleportation Tower",
     秽水工业区: "Greywater Industrial Zone",
+    铁锈河下游: "Iron River Lower Reaches",
+    铁锈河上游: "Iron River Upper Reaches",
+    黑原地区: "Blackfell Area",
+    黑原北部: "Blackfell North",
+    黑原西部: "Blackfell West",
+    黑石山脉: "Blackstone Mountains",
+    阿克姆山脉: "Arkam Mountains",
+    冰屋湾: "Igloo Bay",
+    乐园腹地: "Paradise Hinterland",
+    不冻港地区: "Unfrozen Port Area",
 
     // 乐园岛
     乐园岛: "Paradise Island",
     金宝箱: "Gold Loot Crate",
-    银宝箱: "Silver Loot Crates"
+    银宝箱: "Silver Loot Crates",
+    "金属抽屉柜": "Metal Drawer Cabinet",
+    "车后备箱": "Car Trunk",
+    "垃圾箱": "Trash Can",
+    "蛮荒地带": "Wild Deviant",
+    "幻境地带": "Mirror Deviant",
+    "虚实地带": "Phantasmal Deviant",
+    "文明遗产": "Cultural Artifacts"
   },
 };
