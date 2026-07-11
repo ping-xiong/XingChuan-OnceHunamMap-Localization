@@ -429,7 +429,7 @@ export default {
 
     // Laboratuvarlar - 研究所
     生命进化研究所: "Evrim Enstitüsü",
-    ”黑域“之门: "Pus Bölgesi Girişi", 
+    "”黑域“之门": "Pus Bölgesi Girişi", 
 
     // Kasabalar / Büyük Kaynak Noktaları - 大型资源点
     中途镇: "Throughville",
@@ -615,7 +615,7 @@ export default {
     瞭望点: "Gözetleme Noktası", 
     路边野餐: "Yol Kenarı Piknik Alanı", 
     古船农场: "Antik Gemi Çiftliği", 
-    临时 investigation 营地: "Geçici Araştırma Kampı", 
+    临时营地: "Geçici Araştırma Kampı", 
     倒挂遗迹: "Ters Dönmüş Kalıntılar", 
     幽灵渔村: "Hayalet Koyu", 
     悬船冰洞: "Asılı Tekne Mağarası", 
