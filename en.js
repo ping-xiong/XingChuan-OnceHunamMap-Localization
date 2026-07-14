@@ -280,6 +280,8 @@ export default {
     "下一步：选择地图标记": "Next: Select Map Markers",
     "标记": "Markers",
     "附带地图分类": "Include Map Categories",
+    "附带快捷设置": "Include Quick Settings",
+    "使用笔记时覆盖以下快捷设置": "Replace the following quick settings when using the note",
     "使用笔记时覆盖当前勾选": "Replace current selections when using the note",
     "已选 {count} 项": "{count} selected",
     "全选": "Select All",
