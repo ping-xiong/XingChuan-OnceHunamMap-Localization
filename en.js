@@ -1668,5 +1668,15 @@ export default {
     "虚实地带": "Phantasmal Deviant",
     "文明遗产": "Cultural Artifacts",
     禁忌岛: "Isles of the Abyss",
+
+    // 官方公告核对词条，来源见 docs/english-map-labels.md。
+    漂流瓶: "Drift Bottle",
+    藏宝图: "Treasure Map",
+    宝藏: "Treasure",
+    世界石: "Worldstone",
+    高级工艺台: "Advanced Supplies Workbench",
+    私人存储箱: "Private Storage Crate",
+    混合动力电炉: "Hybrid Electric Furnace",
+    囤积者巢穴: "Hoarder Bug Nest",
   },
 };
